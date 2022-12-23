@@ -43,6 +43,31 @@ live.run()  # 启动live
 ---
 详见 [start.py](start.py)
 
+文件结构：
+
+```
+Biliveir
+│
+├─src - 代码
+│  ├─crawler.py - 直播连接与
+│  ├─live_pusher.py - 开播推送及提醒相关，无用
+│  ├─log.py - 日志记录工具
+│  └─message.py
+│
+├─CmdJsonExample - 原始消息结构示例
+│  ├─DANMU_MSG - 弹幕消息示例
+│  │  ├─0.json - 第一个示例文件
+│  │  └─...
+│  │
+│  ├─GUARD_BUY - 大航海消息示例
+│  └─...
+│
+├─start.py - 整体使用示例
+├─minimize.py - 最小应用示例
+├─requirement.txt - 必备第三方模块
+└─LICENSE - 开源协议
+
+```
 
 类 - Object
 ---
