@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806147",
+    "uid": "259083508",
+    "price": 30,
+    "rate": 1000,
+    "message": "鲸宝生日快乐！在这么可爱的新衣服的衬托下，本就可爱的鲸宝变得比以往还要可爱几倍了",
+    "message_jpn": "誕生日おめでとう！こんなにかわいい新しい服に引き立てられて、かわいいはずのクジラの宝はいつもの何倍もかわいくなった",
+    "is_ranked": 0,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#EDF5FF",
+    "background_icon": "",
+    "background_price_color": "#7497CD",
+    "background_bottom_color": "#2A60B2",
+    "ts": 1671453538,
+    "token": "72ACF53A",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 591892279,
+      "special": "",
+      "anchor_uname": "希月萌奈",
+      "anchor_roomid": 22889484,
+      "medal_level": 15,
+      "medal_name": "鲸呆",
+      "medal_color": "#be6686"
+    },
+    "user_info": {
+      "uname": "香风_",
+      "face": "https://i1.hdslb.com/bfs/face/048ddf4c6699d1f43c5c28fb7eb406b93746910b.jpg",
+      "face_frame": "",
+      "guard_level": 0,
+      "user_level": 9,
+      "level_color": "#969696",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 1,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 59,
+    "start_time": 1671453537,
+    "end_time": 1671453597,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

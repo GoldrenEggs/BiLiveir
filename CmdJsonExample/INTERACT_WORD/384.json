@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 12,
+    "fans_medal": {
+      "anchor_roomid": 11967804,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 9272486,
+      "medal_color_border": 9272486,
+      "medal_color_end": 9272486,
+      "medal_color_start": 9272486,
+      "medal_level": 11,
+      "medal_name": "戢麟",
+      "score": 17611,
+      "special": "",
+      "target_id": 346563107
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671480490143,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452879,
+    "trigger_time": 1671452878067892500,
+    "uid": 15320508,
+    "uname": "迷之后台",
+    "uname_color": ""
+  }
+}

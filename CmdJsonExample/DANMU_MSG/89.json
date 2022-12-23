@@ -1,0 +1,68 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      16777215,
+      1671458029671,
+      -1860437016,
+      0,
+      "bfd44463",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"案板？\",\"user_hash\":\"3218359395\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":9,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "案板？",
+    [
+      3493093814831523,
+      "小小爸爸爸爸",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [],
+    [
+      0,
+      0,
+      9868950,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458029,
+      "ct": "C3645B68"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    7
+  ]
+}

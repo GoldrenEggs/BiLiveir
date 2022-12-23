@@ -1,0 +1,42 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806075",
+    "uid": "21311135",
+    "price": 50,
+    "rate": 1000,
+    "message": "来晚了！鲸宝生日快乐！",
+    "message_jpn": "遅くなりました！誕生日おめでとう！",
+    "is_ranked": 0,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#DBFFFD",
+    "background_icon": "",
+    "background_price_color": "#7DA4BD",
+    "background_bottom_color": "#427D9E",
+    "ts": 1671453255,
+    "token": "1444D88E",
+    "medal_info": null,
+    "user_info": {
+      "uname": "失乐园的叶橙",
+      "face": "https://i2.hdslb.com/bfs/face/153083a37e819686677739a0b7b65bb7e62a7da9.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "user_level": 23,
+      "level_color": "#5896de",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 1,
+      "title": "title-634-1",
+      "manager": 0
+    },
+    "time": 119,
+    "start_time": 1671453254,
+    "end_time": 1671453374,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

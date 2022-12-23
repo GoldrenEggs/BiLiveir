@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 20,
+    "fans_medal": {
+      "anchor_roomid": 22880700,
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 1725515,
+      "medal_color_border": 6809855,
+      "medal_color_end": 5414290,
+      "medal_color_start": 1725515,
+      "medal_level": 24,
+      "medal_name": "完球了",
+      "score": 50009478,
+      "special": "",
+      "target_id": 176135235
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1721472351201,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452873,
+    "trigger_time": 1671452872116752100,
+    "uid": 6013765,
+    "uname": "奥利维尔-琥珀之爱",
+    "uname_color": ""
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806206",
+    "uid": "678317629",
+    "price": 100,
+    "rate": 1000,
+    "message": "最喜欢的是鲸宝捏",
+    "message_jpn": "大好きなのはジンベイザメ",
+    "is_ranked": 1,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#FFF1C5",
+    "background_icon": "",
+    "background_price_color": "#ECCF75",
+    "background_bottom_color": "#E2B52B",
+    "ts": 1671453745,
+    "token": "F8640630",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 591892279,
+      "special": "",
+      "anchor_uname": "希月萌奈",
+      "anchor_roomid": 22889484,
+      "medal_level": 25,
+      "medal_name": "鲸呆",
+      "medal_color": "#6154c"
+    },
+    "user_info": {
+      "uname": "希月屑屑",
+      "face": "https://i1.hdslb.com/bfs/face/c4af593e8eb897e93be4b3f18ed643624c96b32d.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "user_level": 11,
+      "level_color": "#61c05a",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 1,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 300,
+    "start_time": 1671453745,
+    "end_time": 1671454045,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

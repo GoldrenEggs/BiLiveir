@@ -1,0 +1,42 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 30,
+    "fans_medal": {
+      "anchor_roomid": 24391607,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 1725515,
+      "medal_color_border": 1725515,
+      "medal_color_end": 5414290,
+      "medal_color_start": 1725515,
+      "medal_level": 23,
+      "medal_name": "变压器",
+      "score": 50006689,
+      "special": "",
+      "target_id": 19493463
+    },
+    "identities": [
+      6,
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 3,
+    "roomid": 22889484,
+    "score": 1721475296936,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458607,
+    "trigger_time": 1671458606877799700,
+    "uid": 34756890,
+    "uname": "V圈叫父_白神遥Haruka",
+    "uname_color": ""
+  }
+}

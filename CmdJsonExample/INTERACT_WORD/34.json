@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 12,
+    "fans_medal": {
+      "anchor_roomid": 21728563,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 9272486,
+      "medal_color_border": 9272486,
+      "medal_color_end": 9272486,
+      "medal_color_start": 9272486,
+      "medal_level": 12,
+      "medal_name": "拽喵喵",
+      "score": 34657,
+      "special": "",
+      "target_id": 399815233
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671503248026,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458591,
+    "trigger_time": 1671458589883718400,
+    "uid": 329460999,
+    "uname": "番茄味的松果",
+    "uname_color": ""
+  }
+}

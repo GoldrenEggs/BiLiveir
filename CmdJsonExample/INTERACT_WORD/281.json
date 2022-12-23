@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 20,
+    "fans_medal": {
+      "anchor_roomid": 23256987,
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 398668,
+      "medal_color_border": 6809855,
+      "medal_color_end": 6850801,
+      "medal_color_start": 398668,
+      "medal_level": 27,
+      "medal_name": "鳐一鳐",
+      "score": 50089406,
+      "special": "",
+      "target_id": 1856528671
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1721552275947,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452869,
+    "trigger_time": 1671452868861768700,
+    "uid": 244422656,
+    "uname": "希望有个念想",
+    "uname_color": ""
+  }
+}

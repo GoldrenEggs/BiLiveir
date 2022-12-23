@@ -1,0 +1,18 @@
+{
+  "cmd": "COMMON_NOTICE_DANMAKU",
+  "data": {
+    "content_segments": [
+      {
+        "font_color": "#FB7299",
+        "text": "直播小电视 送出的红包为主播新增75个粉丝！",
+        "type": 1
+      }
+    ],
+    "dmscore": 144,
+    "terminals": [
+      2,
+      3,
+      5
+    ]
+  }
+}

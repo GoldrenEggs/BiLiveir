@@ -1,0 +1,39 @@
+{
+  "cmd": "COMBO_SEND",
+  "data": {
+    "action": "投喂",
+    "batch_combo_id": "batch:gift:combo_id:3390514:591892279:31036:1671457964.6099",
+    "batch_combo_num": 10,
+    "combo_id": "gift:combo_id:3390514:591892279:31036:1671457964.6090",
+    "combo_num": 10,
+    "combo_total_coin": 1000,
+    "dmscore": 128,
+    "gift_id": 31036,
+    "gift_name": "小花花",
+    "gift_num": 0,
+    "is_naming": false,
+    "is_show": 1,
+    "medal_info": {
+      "anchor_roomid": 0,
+      "anchor_uname": "",
+      "guard_level": 2,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 2951253,
+      "medal_color_border": 16771156,
+      "medal_color_end": 10329087,
+      "medal_color_start": 2951253,
+      "medal_level": 29,
+      "medal_name": "鲸呆",
+      "special": "",
+      "target_id": 591892279
+    },
+    "name_color": "#E17AFF",
+    "r_uname": "希月萌奈",
+    "ruid": 591892279,
+    "send_master": null,
+    "total_num": 10,
+    "uid": 3390514,
+    "uname": "紫月小天使"
+  }
+}

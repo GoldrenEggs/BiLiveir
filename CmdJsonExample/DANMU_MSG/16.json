@@ -1,0 +1,76 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      16777215,
+      1671458595098,
+      -1238566633,
+      0,
+      "4fbddfdd",
+      0,
+      0,
+      0,
+      "",
+      1,
+      {
+        "bulge_display": 0,
+        "emoticon_unique": "official_115",
+        "height": 60,
+        "in_player_area": 1,
+        "is_dynamic": 1,
+        "url": "http://i0.hdslb.com/bfs/live/61e790813c51eab55ebe0699df1e9834c90b68ba.png",
+        "width": 168
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"来了来了\",\"user_hash\":\"1337843677\",\"emoticon_unique\":\"official_115\",\"bulge_display\":0,\"recommend_score\":3,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "来了来了",
+    [
+      3493078985869360,
+      "可惜了33",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [],
+    [
+      0,
+      0,
+      9868950,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458595,
+      "ct": "6130DC38"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    7
+  ]
+}

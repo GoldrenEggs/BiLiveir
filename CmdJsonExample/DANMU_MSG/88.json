@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      14893055,
+      1671458031601,
+      -1510090882,
+      0,
+      "8d4bd67e",
+      0,
+      0,
+      1,
+      "#33FFE99E,#40DCA731,#33FFE99E",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"最后一分钟\",\"user_hash\":\"2370557566\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":1,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "最后一分钟",
+    [
+      476481,
+      "站在桥上看猫",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#FF7C28"
+    ],
+    [
+      32,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      2951253,
+      "",
+      0,
+      16771156,
+      2951253,
+      10329087,
+      1,
+      1,
+      591892279
+    ],
+    [
+      50,
+      0,
+      16746162,
+      5942,
+      1
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    1,
+    null,
+    {
+      "ts": 1671458031,
+      "ct": "DDE9FEC8"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    119
+  ]
+}

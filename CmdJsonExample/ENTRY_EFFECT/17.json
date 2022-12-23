@@ -1,0 +1,33 @@
+{
+  "cmd": "ENTRY_EFFECT",
+  "data": {
+    "id": 322,
+    "uid": 3193043,
+    "target_id": 591892279,
+    "mock_effect": 0,
+    "face": "https://i2.hdslb.com/bfs/face/0319be9f95fdc5b0a55ba6fbb6b4ae60d0d09c9d.jpg",
+    "privilege_type": 0,
+    "copy_writing": "欢迎<%Infinid...%>进入直播间",
+    "copy_color": "#ffffff",
+    "highlight_color": "#fff596",
+    "priority": 1,
+    "basemap_url": "https://i0.hdslb.com/bfs/live/mlive/9e24612a98bdad27d5fd197d10a9096f3ba8a3ef.png",
+    "show_avatar": 1,
+    "effective_time": 4,
+    "web_basemap_url": "https://i0.hdslb.com/bfs/live/mlive/9e24612a98bdad27d5fd197d10a9096f3ba8a3ef.png",
+    "web_effective_time": 0,
+    "web_effect_close": 1,
+    "web_close_time": 900,
+    "business": 2,
+    "copy_writing_v2": "欢迎<%Infini…%>进入直播间",
+    "icon_list": [],
+    "max_delay_time": 7,
+    "trigger_time": 1671457855867021751,
+    "identities": 1,
+    "effect_silent_time": 0,
+    "effective_time_new": 4,
+    "web_dynamic_url_webp": "https://i0.hdslb.com/bfs/live/mlive/00fb6038cdb4b4c80f2707f5b2273f2e5f178b89.webp",
+    "web_dynamic_url_apng": "https://i0.hdslb.com/bfs/live/mlive/8c85fe12c71342559c0adf139a77eea6f49db86c.vnd.mozilla.apng",
+    "mobile_dynamic_url_webp": "https://i0.hdslb.com/bfs/live/mlive/00fb6038cdb4b4c80f2707f5b2273f2e5f178b89.webp"
+  }
+}

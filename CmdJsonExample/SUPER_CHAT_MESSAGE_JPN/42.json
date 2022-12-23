@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806080",
+    "uid": "476481",
+    "price": 100,
+    "rate": 1000,
+    "message": "这个动作叫做。你好菜！",
+    "message_jpn": "この動作をといいます。こんにちは！",
+    "is_ranked": 1,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#FFF1C5",
+    "background_icon": "",
+    "background_price_color": "#ECCF75",
+    "background_bottom_color": "#E2B52B",
+    "ts": 1671453269,
+    "token": "35773C7A",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 591892279,
+      "special": "",
+      "anchor_uname": "希月萌奈",
+      "anchor_roomid": 22889484,
+      "medal_level": 32,
+      "medal_name": "鲸呆",
+      "medal_color": "#2d0855"
+    },
+    "user_info": {
+      "uname": "站在桥上看猫",
+      "face": "https://i0.hdslb.com/bfs/face/8eae857075d5f129eb9991f17458d5576a7ce3aa.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/39164ebfdd39db3d284b1221765e7e57f5a49958.png",
+      "guard_level": 1,
+      "user_level": 50,
+      "level_color": "#ff86b2",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 1,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 299,
+    "start_time": 1671453268,
+    "end_time": 1671453568,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

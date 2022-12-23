@@ -1,0 +1,15 @@
+{
+  "cmd": "HOT_RANK_SETTLEMENT",
+  "data": {
+    "area_name": "总榜",
+    "cache_key": "dafa796603a8052b5fdb0a993cb65d75",
+    "dm_msg": "恭喜主播 <% 希月萌奈 %> 荣登限时热门榜总榜榜首! 即将获得热门流量推荐哦！",
+    "dmscore": 144,
+    "face": "https://i1.hdslb.com/bfs/face/bc9d8ef16a6bdd469b5f5d02d80d3b5fd25435bc.jpg",
+    "icon": "https://i0.hdslb.com/bfs/live/cb2e160ac4f562b347bb5ae6e635688ebc69580f.png",
+    "rank": 1,
+    "timestamp": 1671453004,
+    "uname": "希月萌奈",
+    "url": "https://live.bilibili.com/p/html/live-app-hotrank/result.html?is_live_half_webview=1&hybrid_half_ui=1,5,250,200,f4eefa,0,30,0,0,0;2,5,250,200,f4eefa,0,30,0,0,0;3,5,250,200,f4eefa,0,30,0,0,0;4,5,250,200,f4eefa,0,30,0,0,0;5,5,250,200,f4eefa,0,30,0,0,0;6,5,250,200,f4eefa,0,30,0,0,0;7,5,250,200,f4eefa,0,30,0,0,0;8,5,250,200,f4eefa,0,30,0,0,0&areaId=0&cache_key=dafa796603a8052b5fdb0a993cb65d75"
+  }
+}

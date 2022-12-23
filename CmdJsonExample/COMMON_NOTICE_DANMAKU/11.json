@@ -1,0 +1,20 @@
+{
+  "cmd": "COMMON_NOTICE_DANMAKU",
+  "data": {
+    "content_segments": [
+      {
+        "font_color": "#61666d",
+        "font_color_dark": "#a2a7ae",
+        "highlight_font_color": "#FFB027",
+        "highlight_font_color_dark": "#FFB027",
+        "text": "<%小花花%> 被点亮啦！恭喜 <%涩雪迷心窍呐%> 成为星球守护者！",
+        "type": 1
+      }
+    ],
+    "dmscore": 144,
+    "terminals": [
+      4,
+      5
+    ]
+  }
+}

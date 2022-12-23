@@ -1,0 +1,90 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5566168,
+      1671458044747,
+      310420278,
+      0,
+      "96b9dbed",
+      0,
+      0,
+      0,
+      "",
+      1,
+      {
+        "bulge_display": 1,
+        "emoticon_unique": "room_22889484_889",
+        "height": 162,
+        "in_player_area": 1,
+        "is_dynamic": 1,
+        "url": "http://i0.hdslb.com/bfs/live/d9be297a8219631a04bed3e4dcb1d3a11ba7c60e.png",
+        "width": 162
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"屑\",\"user_hash\":\"2528762861\",\"emoticon_unique\":\"room_22889484_889\",\"bulge_display\":1,\"recommend_score\":4,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "屑",
+    [
+      26651473,
+      "夜莺尾瞳",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      22,
+      "萝狮粉",
+      "蕾尔娜Leona",
+      22992234,
+      1725515,
+      "",
+      0,
+      1725515,
+      1725515,
+      5414290,
+      0,
+      1,
+      473244363
+    ],
+    [
+      11,
+      0,
+      6406234,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458044,
+      "ct": "34E6DEDF"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    70
+  ]
+}

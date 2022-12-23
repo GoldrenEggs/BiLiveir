@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5807384",
+    "uid": "6455994",
+    "price": 50,
+    "rate": 1000,
+    "message": "小鲸鱼生日快乐呀，祝愿你永远幸福安康~",
+    "message_jpn": "クジラちゃん、お誕生日おめでとうございます。いつまでもお幸せに。",
+    "is_ranked": 0,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#DBFFFD",
+    "background_icon": "",
+    "background_price_color": "#7DA4BD",
+    "background_bottom_color": "#427D9E",
+    "ts": 1671459036,
+    "token": "B59854CE",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 591892279,
+      "special": "",
+      "anchor_uname": "希月萌奈",
+      "anchor_roomid": 22889484,
+      "medal_level": 25,
+      "medal_name": "鲸呆",
+      "medal_color": "#6154c"
+    },
+    "user_info": {
+      "uname": "希月米二",
+      "face": "https://i0.hdslb.com/bfs/face/017e0499f923daa695bf6a9d3eb4ea834af3914d.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "user_level": 22,
+      "level_color": "#5896de",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 1,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 119,
+    "start_time": 1671459035,
+    "end_time": 1671459155,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

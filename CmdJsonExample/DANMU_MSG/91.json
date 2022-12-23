@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5816798,
+      1671458021414,
+      1671451596,
+      0,
+      "eed2b894",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5816798,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"哈哈哈哈\",\"user_hash\":\"4006787220\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":7,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "哈哈哈哈",
+    [
+      11082322,
+      "不再渴求被拯救",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      24,
+      "鸠鸠人",
+      "白夜小鸠Hato",
+      7768761,
+      1725515,
+      "",
+      0,
+      1725515,
+      1725515,
+      5414290,
+      0,
+      1,
+      16217876
+    ],
+    [
+      36,
+      0,
+      10512625,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458021,
+      "ct": "D66626C2"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    56
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 20,
+    "fans_medal": {
+      "anchor_roomid": 22637261,
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 1725515,
+      "medal_color_border": 12632256,
+      "medal_color_end": 12632256,
+      "medal_color_start": 12632256,
+      "medal_level": 21,
+      "medal_name": "嘉心糖",
+      "score": 50001683,
+      "special": "",
+      "target_id": 672328094
+    },
+    "identities": [
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671458049989,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458049,
+    "trigger_time": 1671458048889159400,
+    "uid": 382041352,
+    "uname": "齁酸柠檬水",
+    "uname_color": ""
+  }
+}

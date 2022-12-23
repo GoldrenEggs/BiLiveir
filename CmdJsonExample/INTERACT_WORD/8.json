@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 20,
+    "fans_medal": {
+      "anchor_roomid": 25100511,
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 398668,
+      "medal_color_border": 6809855,
+      "medal_color_end": 6850801,
+      "medal_color_start": 398668,
+      "medal_level": 25,
+      "medal_name": "被略了",
+      "score": 50020697,
+      "special": "",
+      "target_id": 1939568047
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1721488766345,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458069,
+    "trigger_time": 1671458068258869500,
+    "uid": 32441902,
+    "uname": "野驴打滚ing",
+    "uname_color": ""
+  }
+}

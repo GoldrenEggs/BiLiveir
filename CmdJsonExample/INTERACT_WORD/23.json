@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 18,
+    "fans_medal": {
+      "anchor_roomid": 22642754,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 13081892,
+      "medal_color_border": 13081892,
+      "medal_color_end": 13081892,
+      "medal_color_start": 13081892,
+      "medal_level": 17,
+      "medal_name": "乐几人",
+      "score": 196300,
+      "special": "",
+      "target_id": 1104048496
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671664756042,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458456,
+    "trigger_time": 1671458454907125200,
+    "uid": 4898559,
+    "uname": "EJXDN",
+    "uname_color": ""
+  }
+}

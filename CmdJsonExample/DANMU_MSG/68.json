@@ -1,0 +1,90 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5566168,
+      1671457991203,
+      908378833,
+      0,
+      "f7d4156f",
+      0,
+      0,
+      0,
+      "",
+      1,
+      {
+        "bulge_display": 1,
+        "emoticon_unique": "room_22889484_890",
+        "height": 162,
+        "in_player_area": 1,
+        "is_dynamic": 1,
+        "url": "http://i0.hdslb.com/bfs/live/498e8b98672dda596a26d42ec64abd83dc3cb68f.png",
+        "width": 162
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"好耶\",\"user_hash\":\"4157871471\",\"emoticon_unique\":\"room_22889484_890\",\"bulge_display\":1,\"recommend_score\":2,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "好耶",
+    [
+      106161545,
+      "凡千梦",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      8,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      6126494,
+      "",
+      0,
+      6126494,
+      6126494,
+      6126494,
+      0,
+      1,
+      591892279
+    ],
+    [
+      4,
+      0,
+      9868950,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671457991,
+      "ct": "C8356D3B"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    70
+  ]
+}

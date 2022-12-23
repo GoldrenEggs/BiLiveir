@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 12,
+    "fans_medal": {
+      "anchor_roomid": 3509195,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 12478086,
+      "medal_color_border": 12478086,
+      "medal_color_end": 12478086,
+      "medal_color_start": 12478086,
+      "medal_level": 14,
+      "medal_name": "多米猪",
+      "score": 55546,
+      "special": "",
+      "target_id": 10999111
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671573116190,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671507570,
+    "trigger_time": 1671507569034917400,
+    "uid": 486118334,
+    "uname": "VUP保护协会-硫酸盐",
+    "uname_color": ""
+  }
+}

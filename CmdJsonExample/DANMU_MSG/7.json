@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5816798,
+      1671458060803,
+      1005031266,
+      0,
+      "64048e5f",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5816798,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"?\",\"user_hash\":\"1678020191\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":0,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "?",
+    [
+      365385038,
+      "孤羽归",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      17,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      13081892,
+      "",
+      0,
+      13081892,
+      13081892,
+      13081892,
+      0,
+      1,
+      591892279
+    ],
+    [
+      12,
+      0,
+      6406234,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458060,
+      "ct": "5D636AD8"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    70
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "cmd": "COMBO_SEND",
+  "data": {
+    "action": "投喂",
+    "batch_combo_id": "batch:gift:combo_id:197739279:591892279:31036:1671457799.0834",
+    "batch_combo_num": 7,
+    "combo_id": "gift:combo_id:197739279:591892279:31036:1671457799.0798",
+    "combo_num": 7,
+    "combo_total_coin": 700,
+    "dmscore": 120,
+    "gift_id": 31036,
+    "gift_name": "小花花",
+    "gift_num": 0,
+    "is_naming": false,
+    "is_show": 1,
+    "medal_info": {
+      "anchor_roomid": 0,
+      "anchor_uname": "",
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 0,
+      "medal_color_border": 0,
+      "medal_color_end": 0,
+      "medal_color_start": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "special": "",
+      "target_id": 0
+    },
+    "name_color": "#00D1F1",
+    "r_uname": "希月萌奈",
+    "ruid": 591892279,
+    "send_master": null,
+    "total_num": 7,
+    "uid": 197739279,
+    "uname": "绘美如画"
+  }
+}

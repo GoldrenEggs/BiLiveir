@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 16,
+    "fans_medal": {
+      "anchor_roomid": 7874345,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 1725515,
+      "medal_color_border": 1725515,
+      "medal_color_end": 5414290,
+      "medal_color_start": 1725515,
+      "medal_level": 23,
+      "medal_name": "一次性",
+      "score": 50004615,
+      "special": "",
+      "target_id": 271537295
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1721472632280,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 101,
+    "timestamp": 1671458017,
+    "trigger_time": 1671458016256310300,
+    "uid": 652560384,
+    "uname": "米子歌真好听",
+    "uname_color": ""
+  }
+}

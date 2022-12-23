@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5566168,
+      1671458064052,
+      1671454919,
+      0,
+      "abda9892",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"披肩垫的\",\"user_hash\":\"2883229842\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":6,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "披肩垫的",
+    [
+      65555587,
+      "日坂nano",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      11,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      9272486,
+      "",
+      0,
+      9272486,
+      9272486,
+      9272486,
+      0,
+      1,
+      591892279
+    ],
+    [
+      0,
+      0,
+      9868950,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458064,
+      "ct": "DBD908B9"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    49
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 12,
+    "fans_medal": {
+      "anchor_roomid": 23162141,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 9272486,
+      "medal_color_border": 9272486,
+      "medal_color_end": 9272486,
+      "medal_color_start": 9272486,
+      "medal_level": 10,
+      "medal_name": "超奈S",
+      "score": 13050,
+      "special": "",
+      "target_id": 702843929
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 1,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671482074600,
+    "spread_desc": "流量包推广",
+    "spread_info": "#FF649E",
+    "tail_icon": 0,
+    "timestamp": 1671459024,
+    "trigger_time": 1671459024589666600,
+    "uid": 432111193,
+    "uname": "陌上花落无痕",
+    "uname_color": ""
+  }
+}

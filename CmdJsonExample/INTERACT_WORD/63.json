@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 20,
+    "fans_medal": {
+      "anchor_roomid": 4316215,
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 398668,
+      "medal_color_border": 6809855,
+      "medal_color_end": 6850801,
+      "medal_color_start": 398668,
+      "medal_level": 27,
+      "medal_name": "铃咕咕",
+      "score": 50082564,
+      "special": "",
+      "target_id": 39267739
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1721551598266,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671459034,
+    "trigger_time": 1671459033228231400,
+    "uid": 264166,
+    "uname": "有木有歪FI",
+    "uname_color": ""
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806169",
+    "uid": "445253772",
+    "price": 30,
+    "rate": 1000,
+    "message": "虽然但是为啥新衣服感觉胖了一圈",
+    "message_jpn": "でもなぜか新しい服は一回り太ったような気がします",
+    "is_ranked": 0,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#EDF5FF",
+    "background_icon": "",
+    "background_price_color": "#7497CD",
+    "background_bottom_color": "#2A60B2",
+    "ts": 1671453614,
+    "token": "78DDDBAF",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 591892279,
+      "special": "",
+      "anchor_uname": "希月萌奈",
+      "anchor_roomid": 22889484,
+      "medal_level": 26,
+      "medal_name": "鲸呆",
+      "medal_color": "#6154c"
+    },
+    "user_info": {
+      "uname": "希月铁铁永远单推鲸宝",
+      "face": "https://i0.hdslb.com/bfs/face/3927d1c749a97da8fa5a742926784cf4754fc989.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "user_level": 17,
+      "level_color": "#61c05a",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 0,
+      "title": "0",
+      "manager": 1
+    },
+    "time": 60,
+    "start_time": 1671453614,
+    "end_time": 1671453674,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

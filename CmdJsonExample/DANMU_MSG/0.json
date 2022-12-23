@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      5816798,
+      1671458055539,
+      -1324422069,
+      0,
+      "5c7a3247",
+      0,
+      0,
+      5,
+      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5816798,\"dm_type\":0,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"?\",\"user_hash\":\"1551512135\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":3,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "?",
+    [
+      11961757,
+      "木那里红叶",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#00D1F1"
+    ],
+    [
+      22,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      1725515,
+      "",
+      0,
+      6809855,
+      1725515,
+      5414290,
+      3,
+      1,
+      591892279
+    ],
+    [
+      20,
+      0,
+      6406234,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    3,
+    null,
+    {
+      "ts": 1671458055,
+      "ct": "D5CB6754"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    105
+  ]
+}

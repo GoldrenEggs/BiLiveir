@@ -1,0 +1,35 @@
+{
+  "cmd": "ENTRY_EFFECT",
+  "data": {
+    "id": 2,
+    "uid": 3390514,
+    "target_id": 591892279,
+    "mock_effect": 0,
+    "face": "https://i1.hdslb.com/bfs/face/227367817f73a1bb07b49efa86d160f0c0de046a.jpg",
+    "privilege_type": 2,
+    "copy_writing": "欢迎提督 <%紫月小天使%> 进入直播间",
+    "copy_color": "#ffffff",
+    "highlight_color": "#FFF100",
+    "priority": 1,
+    "basemap_url": "https://i0.hdslb.com/bfs/live/mlive/74a41c65e422116d230d433042881fa5556f7870.png",
+    "show_avatar": 1,
+    "effective_time": 3,
+    "web_basemap_url": "https://i0.hdslb.com/bfs/live/mlive/74a41c65e422116d230d433042881fa5556f7870.png",
+    "web_effective_time": 3,
+    "web_effect_close": 0,
+    "web_close_time": 0,
+    "business": 1,
+    "copy_writing_v2": "欢迎 <^icon^> 提督 <%紫月小天使%> 进入直播间",
+    "icon_list": [
+      2
+    ],
+    "max_delay_time": 7,
+    "trigger_time": 1671455904926109063,
+    "identities": 33,
+    "effect_silent_time": 0,
+    "effective_time_new": 0,
+    "web_dynamic_url_webp": "",
+    "web_dynamic_url_apng": "",
+    "mobile_dynamic_url_webp": ""
+  }
+}

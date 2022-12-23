@@ -1,0 +1,90 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      16772431,
+      1671457969752,
+      1165439418,
+      0,
+      "c8db40c8",
+      0,
+      0,
+      0,
+      "",
+      1,
+      {
+        "bulge_display": 0,
+        "emoticon_unique": "official_134",
+        "height": 60,
+        "in_player_area": 1,
+        "is_dynamic": 1,
+        "url": "http://i0.hdslb.com/bfs/live/83d5b9cdaaa820c2756c013031d34dac1fd4156b.png",
+        "width": 168
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16772431,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"上热榜\",\"user_hash\":\"3369812168\",\"emoticon_unique\":\"official_134\",\"bulge_display\":0,\"recommend_score\":0,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "上热榜",
+    [
+      354656714,
+      "去留无意宠辱不惊",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      25,
+      "等kino",
+      "由乃の小仓鼠",
+      8781662,
+      398668,
+      "",
+      0,
+      6809855,
+      398668,
+      6850801,
+      3,
+      1,
+      14633696
+    ],
+    [
+      22,
+      0,
+      5805790,
+      ">50000",
+      0
+    ],
+    [
+      "title-634-1",
+      "title-634-1"
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671457969,
+      "ct": "FDFB9B9"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    70
+  ]
+}

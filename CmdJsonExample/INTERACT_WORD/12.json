@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 20,
+    "fans_medal": {
+      "anchor_roomid": 22889484,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 9272486,
+      "medal_color_border": 9272486,
+      "medal_color_end": 9272486,
+      "medal_color_start": 9272486,
+      "medal_level": 12,
+      "medal_name": "鲸呆",
+      "score": 26501,
+      "special": "",
+      "target_id": 591892279
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671494541258,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458040,
+    "trigger_time": 1671458039249039000,
+    "uid": 104475603,
+    "uname": "麒麟Kylin_",
+    "uname_color": ""
+  }
+}

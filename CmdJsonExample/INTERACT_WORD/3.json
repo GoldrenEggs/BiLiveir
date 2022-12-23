@@ -1,0 +1,40 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 2,
+    "fans_medal": {
+      "anchor_roomid": 0,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 0,
+      "medal_color_border": 12632256,
+      "medal_color_end": 12632256,
+      "medal_color_start": 12632256,
+      "medal_level": 0,
+      "medal_name": "",
+      "score": 0,
+      "special": "",
+      "target_id": 0
+    },
+    "identities": [
+      1
+    ],
+    "is_spread": 1,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671458601716,
+    "spread_desc": "流量包推广",
+    "spread_info": "#FF649E",
+    "tail_icon": 0,
+    "timestamp": 1671458591,
+    "trigger_time": 1671458591709923000,
+    "uid": 515809043,
+    "uname": "都和Ids",
+    "uname_color": ""
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 16,
+    "fans_medal": {
+      "anchor_roomid": 92613,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 13081892,
+      "medal_color_border": 12632256,
+      "medal_color_end": 12632256,
+      "medal_color_start": 12632256,
+      "medal_level": 18,
+      "medal_name": "帅Pi",
+      "score": 449732,
+      "special": "",
+      "target_id": 13046
+    },
+    "identities": [
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671452873374,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452873,
+    "trigger_time": 1671452872295366700,
+    "uid": 24876471,
+    "uname": "藏在黑暗里的过路客",
+    "uname_color": ""
+  }
+}

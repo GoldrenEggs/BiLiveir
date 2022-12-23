@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 18,
+    "fans_medal": {
+      "anchor_roomid": 22889484,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 12478086,
+      "medal_color_border": 12478086,
+      "medal_color_end": 12478086,
+      "medal_color_start": 12478086,
+      "medal_level": 16,
+      "medal_name": "鲸呆",
+      "score": 104024,
+      "special": "",
+      "target_id": 591892279
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671566902053,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452878,
+    "trigger_time": 1671452877012456000,
+    "uid": 265976970,
+    "uname": "风烟正起",
+    "uname_color": ""
+  }
+}

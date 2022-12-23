@@ -1,0 +1,20 @@
+{
+  "cmd": "COMMON_NOTICE_DANMAKU",
+  "data": {
+    "content_segments": [
+      {
+        "font_color": "#FB7299",
+        "text": "BLS限时任务：恭喜主播完成限时任务，直播间派发500元红包，速抢手慢无！新任务将在30s后开启",
+        "type": 1
+      }
+    ],
+    "dmscore": 144,
+    "terminals": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}

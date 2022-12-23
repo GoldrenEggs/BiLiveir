@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 6,
+    "fans_medal": {
+      "anchor_roomid": 8792912,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 6126494,
+      "medal_color_border": 6126494,
+      "medal_color_end": 6126494,
+      "medal_color_start": 6126494,
+      "medal_level": 6,
+      "medal_name": "小綿花",
+      "score": 2879,
+      "special": "",
+      "target_id": 745493
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671465751744,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 101,
+    "timestamp": 1671452872,
+    "trigger_time": 1671452871620888300,
+    "uid": 319210556,
+    "uname": "从长远い",
+    "uname_color": ""
+  }
+}

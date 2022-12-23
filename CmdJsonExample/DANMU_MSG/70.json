@@ -1,0 +1,90 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5566168,
+      1671457970576,
+      -289992572,
+      0,
+      "84a815c5",
+      0,
+      0,
+      0,
+      "",
+      1,
+      {
+        "bulge_display": 1,
+        "emoticon_unique": "room_22889484_887",
+        "height": 162,
+        "in_player_area": 1,
+        "is_dynamic": 1,
+        "url": "http://i0.hdslb.com/bfs/live/81dd621afb2a40f11859cff9b909f49cb6cb6f9d.png",
+        "width": 162
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"啊对对对\",\"user_hash\":\"2225608133\",\"emoticon_unique\":\"room_22889484_887\",\"bulge_display\":1,\"recommend_score\":3,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "啊对对对",
+    [
+      326981983,
+      "深海艾尔赛斯",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      17,
+      "乌拉",
+      "乌拉の帝国Official",
+      14893,
+      13081892,
+      "",
+      0,
+      13081892,
+      13081892,
+      13081892,
+      0,
+      1,
+      610390
+    ],
+    [
+      17,
+      0,
+      6406234,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671457970,
+      "ct": "F2FF7F17"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    56
+  ]
+}

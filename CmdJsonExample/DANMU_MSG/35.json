@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      5566168,
+      1671457955338,
+      -935178493,
+      0,
+      "3db830ec",
+      0,
+      0,
+      5,
+      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":0,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"突然激动\",\"user_hash\":\"1035481324\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":6,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "突然激动",
+    [
+      17326134,
+      "孤寂的过客",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#00D1F1"
+    ],
+    [
+      21,
+      "秧歌星",
+      "东爱璃Lovely",
+      21692711,
+      1725515,
+      "",
+      0,
+      1725515,
+      1725515,
+      5414290,
+      0,
+      1,
+      3821157
+    ],
+    [
+      20,
+      0,
+      6406234,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    3,
+    null,
+    {
+      "ts": 1671457955,
+      "ct": "C30319F3"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    105
+  ]
+}

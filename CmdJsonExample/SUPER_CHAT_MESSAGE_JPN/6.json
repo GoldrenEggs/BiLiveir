@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806087",
+    "uid": "45141986",
+    "price": 100,
+    "rate": 1000,
+    "message": "祝鲸宝生日快乐捏，也祝我自己生日快乐",
+    "message_jpn": "お誕生日おめでとうございます！",
+    "is_ranked": 1,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#FFF1C5",
+    "background_icon": "",
+    "background_price_color": "#ECCF75",
+    "background_bottom_color": "#E2B52B",
+    "ts": 1671453322,
+    "token": "C0092B61",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 591892279,
+      "special": "",
+      "anchor_uname": "希月萌奈",
+      "anchor_roomid": 22889484,
+      "medal_level": 27,
+      "medal_name": "鲸呆",
+      "medal_color": "#6154c"
+    },
+    "user_info": {
+      "uname": "细雨绵霏",
+      "face": "https://i2.hdslb.com/bfs/face/3d6725f5f53b562649e9675a4129ff541ee10319.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/09937c3beb0608e267a50ac3c7125c3f2d709098.png",
+      "guard_level": 2,
+      "user_level": 20,
+      "level_color": "#61c05a",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 1,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 299,
+    "start_time": 1671453321,
+    "end_time": 1671453621,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

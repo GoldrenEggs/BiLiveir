@@ -1,0 +1,50 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE",
+  "data": {
+    "background_bottom_color": "#427D9E",
+    "background_color": "#DBFFFD",
+    "background_color_end": "#29718B",
+    "background_color_start": "#4EA4C5",
+    "background_icon": "",
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_price_color": "#7DA4BD",
+    "color_point": 0.7,
+    "dmscore": 120,
+    "end_time": 1671453374,
+    "gift": {
+      "gift_id": 12000,
+      "gift_name": "醒目留言",
+      "num": 1
+    },
+    "id": 5806075,
+    "is_ranked": 0,
+    "is_send_audit": 0,
+    "medal_info": null,
+    "message": "来晚了！鲸宝生日快乐！",
+    "message_font_color": "#A3F6FF",
+    "message_trans": "",
+    "price": 50,
+    "rate": 1000,
+    "start_time": 1671453254,
+    "time": 120,
+    "token": "81340C1B",
+    "trans_mark": 0,
+    "ts": 1671453254,
+    "uid": 21311135,
+    "user_info": {
+      "face": "https://i2.hdslb.com/bfs/face/153083a37e819686677739a0b7b65bb7e62a7da9.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "is_main_vip": 1,
+      "is_svip": 0,
+      "is_vip": 0,
+      "level_color": "#5896de",
+      "manager": 0,
+      "name_color": "#00D1F1",
+      "title": "title-634-1",
+      "uname": "失乐园的叶橙",
+      "user_level": 23
+    }
+  },
+  "roomid": 22889484
+}

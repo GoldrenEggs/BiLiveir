@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 12,
+    "fans_medal": {
+      "anchor_roomid": 21345362,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 9272486,
+      "medal_color_border": 9272486,
+      "medal_color_end": 9272486,
+      "medal_color_start": 9272486,
+      "medal_level": 10,
+      "medal_name": "嫣半首",
+      "score": 12947,
+      "special": "",
+      "target_id": 411812743
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671475822077,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452875,
+    "trigger_time": 1671452873933418800,
+    "uid": 396242055,
+    "uname": "随零颖夏",
+    "uname_color": ""
+  }
+}

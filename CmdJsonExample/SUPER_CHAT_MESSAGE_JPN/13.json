@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806153",
+    "uid": "28596918",
+    "price": 100,
+    "rate": 1000,
+    "message": "来杯咖啡，不加牛奶不加糖，不加奶精，最重要的是，别放咖啡~（生日快乐啊宝~）",
+    "message_jpn": "コーヒーを1杯ください。牛乳を入れないで、砂糖を入れないで、ミルクを入れないで、最も重要なのは、コーヒーを入れないでください~（お誕生日おめでとうございます宝~）",
+    "is_ranked": 1,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#FFF1C5",
+    "background_icon": "",
+    "background_price_color": "#ECCF75",
+    "background_bottom_color": "#E2B52B",
+    "ts": 1671453554,
+    "token": "E122DFC0",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 140378,
+      "special": "",
+      "anchor_uname": "梦音茶糯",
+      "anchor_roomid": 958617,
+      "medal_level": 26,
+      "medal_name": "梦音符",
+      "medal_color": "#6154c"
+    },
+    "user_info": {
+      "uname": "希望之圣行者",
+      "face": "https://i0.hdslb.com/bfs/face/e92e82e420510bbe4d67f5d988c8ba563777eb80.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "user_level": 20,
+      "level_color": "#61c05a",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 0,
+      "title": "title-111-1",
+      "manager": 0
+    },
+    "time": 299,
+    "start_time": 1671453553,
+    "end_time": 1671453853,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

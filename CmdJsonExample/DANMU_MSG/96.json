@@ -1,0 +1,90 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      14893055,
+      1671458064702,
+      -1185540008,
+      0,
+      "3da32262",
+      0,
+      0,
+      5,
+      "#1453BAFF,#4C2263A2,#3353BAFF",
+      1,
+      {
+        "bulge_display": 1,
+        "emoticon_unique": "room_22889484_1293",
+        "height": 162,
+        "in_player_area": 1,
+        "is_dynamic": 1,
+        "url": "http://i0.hdslb.com/bfs/garb/f28f706944db5e274cbf34ca1262de18300c841d.png",
+        "width": 162
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"吃鲸\",\"user_hash\":\"1034101346\",\"emoticon_unique\":\"room_22889484_1293\",\"bulge_display\":1,\"recommend_score\":9,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "吃鲸",
+    [
+      426242175,
+      "一只大冰块",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#00D1F1"
+    ],
+    [
+      22,
+      "雪狐咕",
+      "雪狐桑",
+      24393,
+      1725515,
+      "",
+      0,
+      6809855,
+      1725515,
+      5414290,
+      3,
+      1,
+      477792
+    ],
+    [
+      12,
+      0,
+      6406234,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    3,
+    null,
+    {
+      "ts": 1671458064,
+      "ct": "EC960EBC"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    105
+  ]
+}

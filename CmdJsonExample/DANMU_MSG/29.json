@@ -1,0 +1,68 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5566168,
+      1671459037883,
+      -495637457,
+      0,
+      "974ccf0c",
+      0,
+      0,
+      5,
+      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"差两个\",\"user_hash\":\"2538393356\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":4,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "差两个",
+    [
+      1056281903,
+      "夜更愁",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#00D1F1"
+    ],
+    [],
+    [
+      21,
+      0,
+      5805790,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    3,
+    null,
+    {
+      "ts": 1671459037,
+      "ct": "E483A905"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    105
+  ]
+}

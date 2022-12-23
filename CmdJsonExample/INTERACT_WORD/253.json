@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 6,
+    "fans_medal": {
+      "anchor_roomid": 24393,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 9272486,
+      "medal_color_border": 9272486,
+      "medal_color_end": 9272486,
+      "medal_color_start": 9272486,
+      "medal_level": 9,
+      "medal_name": "雪狐咕",
+      "score": 9008,
+      "special": "",
+      "target_id": 477792
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671471873944,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452865,
+    "trigger_time": 1671452864827155500,
+    "uid": 660835886,
+    "uname": "新世界笑一个",
+    "uname_color": ""
+  }
+}

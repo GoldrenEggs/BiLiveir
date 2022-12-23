@@ -1,0 +1,14 @@
+{
+  "cmd": "GUARD_BUY",
+  "data": {
+    "uid": 4427828,
+    "username": "奈芙小姐的狗",
+    "guard_level": 3,
+    "num": 1,
+    "price": 198000,
+    "gift_id": 10003,
+    "gift_name": "舰长",
+    "start_time": 1671455888,
+    "end_time": 1671455888
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "cmd": "LIKE_INFO_V3_CLICK",
+  "data": {
+    "show_area": 0,
+    "msg_type": 6,
+    "like_icon": "https://i0.hdslb.com/bfs/live/23678e3d90402bea6a65251b3e728044c21b1f0f.png",
+    "uid": 34999281,
+    "like_text": "为主播点赞了",
+    "uname": "科学ACE",
+    "uname_color": "",
+    "identities": [
+      1
+    ],
+    "fans_medal": {
+      "target_id": 1588646945,
+      "medal_level": 3,
+      "medal_name": "多巴安",
+      "medal_color": 6067854,
+      "medal_color_start": 12632256,
+      "medal_color_end": 12632256,
+      "medal_color_border": 12632256,
+      "is_lighted": 0,
+      "guard_level": 0,
+      "special": "",
+      "icon_id": 0,
+      "anchor_roomid": 0,
+      "score": 900
+    },
+    "contribution_info": {
+      "grade": 0
+    },
+    "dmscore": 20
+  }
+}

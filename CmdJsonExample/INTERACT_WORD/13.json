@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 16,
+    "fans_medal": {
+      "anchor_roomid": 958617,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 13081892,
+      "medal_color_border": 13081892,
+      "medal_color_end": 13081892,
+      "medal_color_start": 13081892,
+      "medal_level": 17,
+      "medal_name": "梦音符",
+      "score": 198094,
+      "special": "",
+      "target_id": 140378
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671666151889,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 101,
+    "timestamp": 1671458057,
+    "trigger_time": 1671458056853714400,
+    "uid": 504202778,
+    "uname": "arXiv648",
+    "uname_color": ""
+  }
+}

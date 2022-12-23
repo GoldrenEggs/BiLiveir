@@ -1,0 +1,10 @@
+{
+  "cmd": "ANCHOR_LOT_CHECKSTATUS",
+  "data": {
+    "id": 3603228,
+    "reject_danmu": null,
+    "reject_reason": "",
+    "status": 4,
+    "uid": 591892279
+  }
+}

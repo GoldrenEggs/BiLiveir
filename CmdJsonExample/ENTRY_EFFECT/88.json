@@ -1,0 +1,33 @@
+{
+  "cmd": "ENTRY_EFFECT",
+  "data": {
+    "id": 253,
+    "uid": 435225297,
+    "target_id": 591892279,
+    "mock_effect": 0,
+    "face": "https://i0.hdslb.com/bfs/face/fda6f8b6182eead9a4faede43dd58a95ddb9ba5a.jpg",
+    "privilege_type": 0,
+    "copy_writing": "欢迎<%阿尔托利雅宇宙...%>进入直播间",
+    "copy_color": "#ffffff",
+    "highlight_color": "#ffea18",
+    "priority": 1,
+    "basemap_url": "https://i0.hdslb.com/bfs/live/mlive/6d38ab463be28a130870c8c43d109473f215963e.png",
+    "show_avatar": 1,
+    "effective_time": 3,
+    "web_basemap_url": "https://i0.hdslb.com/bfs/live/mlive/6d38ab463be28a130870c8c43d109473f215963e.png",
+    "web_effective_time": 3,
+    "web_effect_close": 1,
+    "web_close_time": 900,
+    "business": 4,
+    "copy_writing_v2": "欢迎<%阿尔托利雅宇…%>进入直播间",
+    "icon_list": [],
+    "max_delay_time": 7,
+    "trigger_time": 1671453207790429365,
+    "identities": 1,
+    "effect_silent_time": 0,
+    "effective_time_new": 0,
+    "web_dynamic_url_webp": "",
+    "web_dynamic_url_apng": "",
+    "mobile_dynamic_url_webp": ""
+  }
+}

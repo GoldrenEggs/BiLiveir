@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      14893055,
+      1671458610088,
+      0,
+      0,
+      "94f316e9",
+      0,
+      2,
+      5,
+      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"祝鲸宝生日快乐！\",\"user_hash\":\"2498959081\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":5,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "3603585",
+        "activity_source": 1,
+        "not_show": 1
+      }
+    ],
+    "祝鲸宝生日快乐！",
+    [
+      23032380,
+      "wtfrun",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#00D1F1"
+    ],
+    [
+      23,
+      "星之门",
+      "星陵Betty",
+      21732370,
+      1725515,
+      "",
+      0,
+      6809855,
+      1725515,
+      5414290,
+      3,
+      1,
+      323774877
+    ],
+    [
+      20,
+      0,
+      6406234,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    3,
+    null,
+    {
+      "ts": 1671458610,
+      "ct": "7CC37D3A"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    105
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "cmd": "COMBO_SEND",
+  "data": {
+    "action": "投喂",
+    "batch_combo_id": "batch:gift:combo_id:413415651:591892279:31278:1671456250.9309",
+    "batch_combo_num": 2,
+    "combo_id": "gift:combo_id:413415651:591892279:31278:1671456250.9275",
+    "combo_num": 2,
+    "combo_total_coin": 1000,
+    "dmscore": 40,
+    "gift_id": 31278,
+    "gift_name": "打call",
+    "gift_num": 0,
+    "is_naming": false,
+    "is_show": 1,
+    "medal_info": {
+      "anchor_roomid": 0,
+      "anchor_uname": "",
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 6126494,
+      "medal_color_border": 6126494,
+      "medal_color_end": 6126494,
+      "medal_color_start": 6126494,
+      "medal_level": 7,
+      "medal_name": "鲸呆",
+      "special": "",
+      "target_id": 591892279
+    },
+    "name_color": "",
+    "r_uname": "希月萌奈",
+    "ruid": 591892279,
+    "send_master": null,
+    "total_num": 2,
+    "uid": 413415651,
+    "uname": "豪豪ZWQ"
+  }
+}

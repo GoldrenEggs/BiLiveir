@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 16,
+    "fans_medal": {
+      "anchor_roomid": 24214990,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 1725515,
+      "medal_color_border": 1725515,
+      "medal_color_end": 5414290,
+      "medal_color_start": 1725515,
+      "medal_level": 21,
+      "medal_name": "光使",
+      "score": 50001552,
+      "special": "",
+      "target_id": 23877948
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1721464427634,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452875,
+    "trigger_time": 1671452874525805300,
+    "uid": 313994965,
+    "uname": "浔稻",
+    "uname_color": ""
+  }
+}

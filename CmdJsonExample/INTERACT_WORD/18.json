@@ -1,0 +1,42 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 30,
+    "fans_medal": {
+      "anchor_roomid": 5169315,
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 398668,
+      "medal_color_border": 6809855,
+      "medal_color_end": 6850801,
+      "medal_color_start": 398668,
+      "medal_level": 25,
+      "medal_name": "小早凉",
+      "score": 50029224,
+      "special": "",
+      "target_id": 518817
+    },
+    "identities": [
+      6,
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 3,
+    "roomid": 22889484,
+    "score": 1721546713236,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671507489,
+    "trigger_time": 1671507488152144600,
+    "uid": 354803148,
+    "uname": "非灰即白A",
+    "uname_color": ""
+  }
+}

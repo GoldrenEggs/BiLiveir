@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5807154",
+    "uid": "108550934",
+    "price": 100,
+    "rate": 1000,
+    "message": "鲸宝生日快乐，黑听人冒头给鲸宝声祝福",
+    "message_jpn": "誕生日おめでとうございます、黒聴人が頭を上げてクジラの宝の声を祝福します",
+    "is_ranked": 1,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#FFF1C5",
+    "background_icon": "",
+    "background_price_color": "#ECCF75",
+    "background_bottom_color": "#E2B52B",
+    "ts": 1671458046,
+    "token": "68B040B7",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 591892279,
+      "special": "",
+      "anchor_uname": "希月萌奈",
+      "anchor_roomid": 22889484,
+      "medal_level": 22,
+      "medal_name": "鲸呆",
+      "medal_color": "#1a544b"
+    },
+    "user_info": {
+      "uname": "让我-访-问",
+      "face": "https://i2.hdslb.com/bfs/face/3122968f6cb8b548f4c1e6ffc515f2389eceb6e5.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "user_level": 10,
+      "level_color": "#969696",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 1,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 299,
+    "start_time": 1671458045,
+    "end_time": 1671458345,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

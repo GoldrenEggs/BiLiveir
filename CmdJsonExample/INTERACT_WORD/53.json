@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 16,
+    "fans_medal": {
+      "anchor_roomid": 573893,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 12478086,
+      "medal_color_border": 12478086,
+      "medal_color_end": 12478086,
+      "medal_color_start": 12478086,
+      "medal_level": 15,
+      "medal_name": "boba",
+      "score": 61540,
+      "special": "",
+      "target_id": 15641218
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671579047026,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671507507,
+    "trigger_time": 1671507505975287000,
+    "uid": 8923380,
+    "uname": "東流-",
+    "uname_color": ""
+  }
+}

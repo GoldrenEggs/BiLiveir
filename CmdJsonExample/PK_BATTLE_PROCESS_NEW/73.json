@@ -1,0 +1,21 @@
+{
+  "cmd": "PK_BATTLE_PROCESS_NEW",
+  "data": {
+    "battle_type": 1,
+    "init_info": {
+      "room_id": 22889484,
+      "votes": 819,
+      "best_uname": "随意人生999",
+      "vision_desc": 1
+    },
+    "match_info": {
+      "room_id": 26445427,
+      "votes": 0,
+      "best_uname": "",
+      "vision_desc": -1
+    }
+  },
+  "pk_id": 307652819,
+  "pk_status": 201,
+  "timestamp": 1671456621
+}

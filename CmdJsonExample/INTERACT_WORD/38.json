@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 6,
+    "fans_medal": {
+      "anchor_roomid": 21402309,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 6126494,
+      "medal_color_border": 6126494,
+      "medal_color_end": 6126494,
+      "medal_color_start": 6126494,
+      "medal_level": 7,
+      "medal_name": "帕清姬",
+      "score": 4352,
+      "special": "",
+      "target_id": 401480763
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 1,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671472963820,
+    "spread_desc": "流量包推广",
+    "spread_info": "#FF649E",
+    "tail_icon": 0,
+    "timestamp": 1671458611,
+    "trigger_time": 1671458611813447700,
+    "uid": 646511839,
+    "uname": "永远的小赵",
+    "uname_color": ""
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806190",
+    "uid": "13356851",
+    "price": 30,
+    "rate": 1000,
+    "message": "哦哦哦哦哦哦哦哦哦这个鲸宝太可爱了！",
+    "message_jpn": "おおおおおおおおこのクジラの宝はとてもかわいいです！",
+    "is_ranked": 0,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#EDF5FF",
+    "background_icon": "",
+    "background_price_color": "#7497CD",
+    "background_bottom_color": "#2A60B2",
+    "ts": 1671453683,
+    "token": "882D1BCE",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 11666979,
+      "special": "",
+      "anchor_uname": "锦明日海",
+      "anchor_roomid": 471562,
+      "medal_level": 4,
+      "medal_name": "牛头人",
+      "medal_color": "#5c968e"
+    },
+    "user_info": {
+      "uname": "o0深红0o",
+      "face": "http://i2.hdslb.com/bfs/face/35c674c0d277ef02e6cd0d2fd2f3550770204f56.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "user_level": 24,
+      "level_color": "#5896de",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 1,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 59,
+    "start_time": 1671453682,
+    "end_time": 1671453742,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

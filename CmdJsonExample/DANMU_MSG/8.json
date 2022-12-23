@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5816798,
+      1671457923208,
+      1416750746,
+      0,
+      "6615ca49",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5816798,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"紫薯\",\"user_hash\":\"1712704073\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":1,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "紫薯",
+    [
+      1465964,
+      "星灵雪枫",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      22,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      1725515,
+      "",
+      0,
+      1725515,
+      1725515,
+      5414290,
+      0,
+      1,
+      591892279
+    ],
+    [
+      21,
+      0,
+      5805790,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671457923,
+      "ct": "FD6EEAC2"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    63
+  ]
+}

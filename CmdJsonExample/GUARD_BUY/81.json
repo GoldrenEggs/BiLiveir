@@ -1,0 +1,14 @@
+{
+  "cmd": "GUARD_BUY",
+  "data": {
+    "uid": 378518443,
+    "username": "九成八起步",
+    "guard_level": 3,
+    "num": 1,
+    "price": 198000,
+    "gift_id": 10003,
+    "gift_name": "舰长",
+    "start_time": 1671455764,
+    "end_time": 1671455764
+  }
+}

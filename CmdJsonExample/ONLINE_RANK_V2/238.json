@@ -1,0 +1,64 @@
+{
+  "cmd": "ONLINE_RANK_V2",
+  "data": {
+    "list": [
+      {
+        "uid": 45141986,
+        "face": "https://i2.hdslb.com/bfs/face/3d6725f5f53b562649e9675a4129ff541ee10319.jpg",
+        "score": "20320",
+        "uname": "细雨绵霏",
+        "rank": 1,
+        "guard_level": 2
+      },
+      {
+        "uid": 3390514,
+        "face": "https://i1.hdslb.com/bfs/face/227367817f73a1bb07b49efa86d160f0c0de046a.jpg",
+        "score": "20000",
+        "uname": "紫月小天使",
+        "rank": 2,
+        "guard_level": 2
+      },
+      {
+        "uid": 1246013819,
+        "face": "https://i2.hdslb.com/bfs/face/876fd4e79cce693a9b86f11485202a09510a4c2e.jpg",
+        "score": "19990",
+        "uname": "PR祝鲸宝生日快乐",
+        "rank": 3,
+        "guard_level": 2
+      },
+      {
+        "uid": 3432647,
+        "face": "https://i2.hdslb.com/bfs/face/013e7d7f0dbf5dac58f52fcba5fbb1a5be62addb.jpg",
+        "score": "19982",
+        "uname": "神判更纱",
+        "rank": 4,
+        "guard_level": 2
+      },
+      {
+        "uid": 16883514,
+        "face": "https://i0.hdslb.com/bfs/face/05b3720680b19c45c2b691667e2e089556682d4f.jpg",
+        "score": "19981",
+        "uname": "大胡子尼酱",
+        "rank": 5,
+        "guard_level": 2
+      },
+      {
+        "uid": 386962210,
+        "face": "https://i1.hdslb.com/bfs/face/7e921ed21010bc08629bcf09a7153a6aa3536380.jpg",
+        "score": "17292",
+        "uname": "随意人生999",
+        "rank": 6,
+        "guard_level": 2
+      },
+      {
+        "uid": 286489741,
+        "face": "https://i1.hdslb.com/bfs/face/53e3f347c28a3d76481499f295b29ab40c5d1623.jpg",
+        "score": "15981",
+        "uname": "--泠墨--",
+        "rank": 7,
+        "guard_level": 2
+      }
+    ],
+    "rank_type": "gold-rank"
+  }
+}

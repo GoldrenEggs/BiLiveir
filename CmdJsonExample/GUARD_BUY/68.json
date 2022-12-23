@@ -1,0 +1,14 @@
+{
+  "cmd": "GUARD_BUY",
+  "data": {
+    "uid": 3493086525130754,
+    "username": "敢问梦在何方",
+    "guard_level": 3,
+    "num": 1,
+    "price": 198000,
+    "gift_id": 10003,
+    "gift_name": "舰长",
+    "start_time": 1671455734,
+    "end_time": 1671455734
+  }
+}

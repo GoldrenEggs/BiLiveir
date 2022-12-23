@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      16777215,
+      1671458066654,
+      -881481613,
+      0,
+      "7a64b40c",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"不是垫\",\"user_hash\":\"2053420044\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":0,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "不是垫",
+    [
+      471448925,
+      "K-Solomon",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      16,
+      "小孩梓",
+      "阿梓从小就很可爱",
+      80397,
+      12478086,
+      "",
+      0,
+      12478086,
+      12478086,
+      12478086,
+      0,
+      1,
+      7706705
+    ],
+    [
+      10,
+      0,
+      9868950,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458066,
+      "ct": "F7E4B07A"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    56
+  ]
+}

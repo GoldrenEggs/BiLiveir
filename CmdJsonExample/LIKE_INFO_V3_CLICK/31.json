@@ -1,0 +1,35 @@
+{
+  "cmd": "LIKE_INFO_V3_CLICK",
+  "data": {
+    "show_area": 0,
+    "msg_type": 6,
+    "like_icon": "https://i0.hdslb.com/bfs/live/23678e3d90402bea6a65251b3e728044c21b1f0f.png",
+    "uid": 401438683,
+    "like_text": "为主播点赞了",
+    "uname": "20111280237_bili",
+    "uname_color": "",
+    "identities": [
+      3,
+      1
+    ],
+    "fans_medal": {
+      "target_id": 477792,
+      "medal_level": 13,
+      "medal_name": "雪狐咕",
+      "medal_color": 12478086,
+      "medal_color_start": 12478086,
+      "medal_color_end": 12478086,
+      "medal_color_border": 12478086,
+      "is_lighted": 1,
+      "guard_level": 0,
+      "special": "",
+      "icon_id": 0,
+      "anchor_roomid": 0,
+      "score": 41400
+    },
+    "contribution_info": {
+      "grade": 0
+    },
+    "dmscore": 20
+  }
+}

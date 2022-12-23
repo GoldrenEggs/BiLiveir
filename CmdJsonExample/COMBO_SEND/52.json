@@ -1,0 +1,39 @@
+{
+  "cmd": "COMBO_SEND",
+  "data": {
+    "action": "投喂",
+    "batch_combo_id": "batch:gift:combo_id:495609739:591892279:30706:1671455939.8311",
+    "batch_combo_num": 2,
+    "combo_id": "gift:combo_id:495609739:591892279:30706:1671455939.8300",
+    "combo_num": 2,
+    "combo_total_coin": 2000,
+    "dmscore": 80,
+    "gift_id": 30706,
+    "gift_name": "生日快乐",
+    "gift_num": 1,
+    "is_naming": false,
+    "is_show": 1,
+    "medal_info": {
+      "anchor_roomid": 0,
+      "anchor_uname": "",
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 0,
+      "medal_color_border": 0,
+      "medal_color_end": 0,
+      "medal_color_start": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "special": "",
+      "target_id": 0
+    },
+    "name_color": "",
+    "r_uname": "希月萌奈",
+    "ruid": 591892279,
+    "send_master": null,
+    "total_num": 2,
+    "uid": 495609739,
+    "uname": "殷殷酱开播啦"
+  }
+}

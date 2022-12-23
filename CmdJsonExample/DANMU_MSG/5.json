@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      14893055,
+      1671458030491,
+      0,
+      0,
+      "499927b4",
+      0,
+      2,
+      5,
+      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"祝鲸宝生日快乐！\",\"user_hash\":\"1234773940\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":0,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "3603416",
+        "activity_source": 1,
+        "not_show": 1
+      }
+    ],
+    "祝鲸宝生日快乐！",
+    [
+      41113474,
+      "凌夜星耀",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#00D1F1"
+    ],
+    [
+      5,
+      "结缘深",
+      "不知原深",
+      26526557,
+      6126494,
+      "",
+      0,
+      6126494,
+      6126494,
+      6126494,
+      0,
+      1,
+      1184238527
+    ],
+    [
+      22,
+      0,
+      5805790,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    3,
+    null,
+    {
+      "ts": 1671458030,
+      "ct": "9BCD96BD"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    105
+  ]
+}

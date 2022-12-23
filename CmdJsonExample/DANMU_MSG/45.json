@@ -1,0 +1,90 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      5566168,
+      1671458065726,
+      1072109828,
+      0,
+      "da83d21b",
+      0,
+      0,
+      5,
+      "#1453BAFF,#4C2263A2,#3353BAFF",
+      1,
+      {
+        "bulge_display": 1,
+        "emoticon_unique": "room_22889484_1293",
+        "height": 162,
+        "in_player_area": 1,
+        "is_dynamic": 1,
+        "url": "http://i0.hdslb.com/bfs/garb/f28f706944db5e274cbf34ca1262de18300c841d.png",
+        "width": 162
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":1,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"吃鲸\",\"user_hash\":\"3666072091\",\"emoticon_unique\":\"room_22889484_1293\",\"bulge_display\":1,\"recommend_score\":7,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "吃鲸",
+    [
+      3493079864576931,
+      "万水千山的旅程",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#00D1F1"
+    ],
+    [
+      21,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      1725515,
+      "",
+      0,
+      6809855,
+      1725515,
+      5414290,
+      3,
+      1,
+      591892279
+    ],
+    [
+      6,
+      0,
+      9868950,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    3,
+    null,
+    {
+      "ts": 1671458065,
+      "ct": "1486DF78"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    105
+  ]
+}

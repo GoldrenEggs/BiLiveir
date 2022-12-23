@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 6,
+    "fans_medal": {
+      "anchor_roomid": 8792912,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 6126494,
+      "medal_color_border": 6126494,
+      "medal_color_end": 6126494,
+      "medal_color_start": 6126494,
+      "medal_level": 7,
+      "medal_name": "小綿花",
+      "score": 4899,
+      "special": "",
+      "target_id": 745493
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671472940369,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458041,
+    "trigger_time": 1671458040363698200,
+    "uid": 667603732,
+    "uname": "单火王",
+    "uname_color": ""
+  }
+}

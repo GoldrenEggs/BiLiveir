@@ -1,0 +1,32 @@
+{
+  "cmd": "POPULARITY_RED_POCKET_NEW",
+  "data": {
+    "lot_id": 7903993,
+    "start_time": 1671457577,
+    "current_time": 1671456563,
+    "wait_num": 7,
+    "uname": "直播小电视",
+    "uid": 1407831746,
+    "action": "送出",
+    "num": 1,
+    "gift_name": "红包",
+    "gift_id": 13000,
+    "price": 1000,
+    "name_color": "",
+    "medal_info": {
+      "target_id": 0,
+      "special": "",
+      "icon_id": 0,
+      "anchor_uname": "",
+      "anchor_roomid": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "medal_color": 0,
+      "medal_color_start": 0,
+      "medal_color_end": 0,
+      "medal_color_border": 0,
+      "is_lighted": 0,
+      "guard_level": 0
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      5816798,
+      1671458592692,
+      0,
+      0,
+      "9095ce66",
+      0,
+      2,
+      5,
+      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5816798,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"祝鲸宝生日快乐！\",\"user_hash\":\"2425736806\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":6,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "3603585",
+        "activity_source": 1,
+        "not_show": 1
+      }
+    ],
+    "祝鲸宝生日快乐！",
+    [
+      13617422,
+      "恋凛丶",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#00D1F1"
+    ],
+    [
+      21,
+      "D累了",
+      "恋凛丶",
+      2421010,
+      1725515,
+      "",
+      0,
+      6809855,
+      1725515,
+      5414290,
+      3,
+      1,
+      13617422
+    ],
+    [
+      20,
+      0,
+      6406234,
+      ">50000",
+      0
+    ],
+    [
+      "title-634-1",
+      "title-634-1"
+    ],
+    0,
+    3,
+    null,
+    {
+      "ts": 1671458592,
+      "ct": "F8A6C729"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    105
+  ]
+}

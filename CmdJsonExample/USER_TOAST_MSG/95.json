@@ -1,0 +1,28 @@
+{
+  "cmd": "USER_TOAST_MSG",
+  "data": {
+    "anchor_show": true,
+    "color": "#00D1F1",
+    "dmscore": 90,
+    "effect_id": 397,
+    "end_time": 1671457854,
+    "face_effect_id": 44,
+    "gift_id": 10003,
+    "guard_level": 3,
+    "is_show": 0,
+    "num": 1,
+    "op_type": 3,
+    "payflow_id": "2212192150419632820475874",
+    "price": 138000,
+    "role_name": "舰长",
+    "room_effect_id": 590,
+    "start_time": 1671457854,
+    "svga_block": 0,
+    "target_guard_count": 787,
+    "toast_msg": "<%开心无下限%> 开通了舰长，今天是TA陪伴主播的第211天",
+    "uid": 144842047,
+    "unit": "月",
+    "user_show": true,
+    "username": "开心无下限"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      5566168,
+      1671458065857,
+      -631162368,
+      0,
+      "7e74f015",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"？？？？\",\"user_hash\":\"2121592853\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":5,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "？？？？",
+    [
+      403958287,
+      "我们即是乆之律者",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      8,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      6126494,
+      "",
+      0,
+      6126494,
+      6126494,
+      6126494,
+      0,
+      1,
+      591892279
+    ],
+    [
+      1,
+      0,
+      9868950,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458065,
+      "ct": "DEE62D34"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    35
+  ]
+}

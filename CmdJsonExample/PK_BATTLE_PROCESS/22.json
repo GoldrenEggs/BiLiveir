@@ -1,0 +1,21 @@
+{
+  "cmd": "PK_BATTLE_PROCESS",
+  "data": {
+    "battle_type": 1,
+    "init_info": {
+      "room_id": 22889484,
+      "votes": 1696,
+      "best_uname": "AN94天下第一",
+      "vision_desc": 1
+    },
+    "match_info": {
+      "room_id": 26018081,
+      "votes": 1,
+      "best_uname": "学杨乐马_mua",
+      "vision_desc": -1
+    }
+  },
+  "pk_id": 307654388,
+  "pk_status": 201,
+  "timestamp": 1671458591
+}

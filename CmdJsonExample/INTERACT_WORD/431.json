@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 30,
+    "fans_medal": {
+      "anchor_roomid": 850221,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 12632256,
+      "medal_color_border": 12632256,
+      "medal_color_end": 12632256,
+      "medal_color_start": 12632256,
+      "medal_level": 10,
+      "medal_name": "打吊针",
+      "score": 11911,
+      "special": "",
+      "target_id": 52522
+    },
+    "identities": [
+      6,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 3,
+    "roomid": 22889484,
+    "score": 1671452883919,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452883,
+    "trigger_time": 1671452882827542000,
+    "uid": 23733927,
+    "uname": "panthera_unica",
+    "uname_color": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 4,
+    "fans_medal": {
+      "anchor_roomid": 22926711,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 6067854,
+      "medal_color_border": 6067854,
+      "medal_color_end": 6067854,
+      "medal_color_start": 6067854,
+      "medal_level": 4,
+      "medal_name": "打工鼠",
+      "score": 1300,
+      "special": "",
+      "target_id": 1968783589
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671464158163,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671452858,
+    "trigger_time": 1671452857028418600,
+    "uid": 33894030,
+    "uname": "梦兮丶泪成痕",
+    "uname_color": ""
+  }
+}

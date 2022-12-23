@@ -1,0 +1,39 @@
+{
+  "cmd": "COMBO_SEND",
+  "data": {
+    "action": "投喂",
+    "batch_combo_id": "batch:gift:combo_id:522684278:591892279:31036:1671458587.3228",
+    "batch_combo_num": 2,
+    "combo_id": "gift:combo_id:522684278:591892279:31036:1671458587.3191",
+    "combo_num": 2,
+    "combo_total_coin": 200,
+    "dmscore": 120,
+    "gift_id": 31036,
+    "gift_name": "小花花",
+    "gift_num": 0,
+    "is_naming": false,
+    "is_show": 1,
+    "medal_info": {
+      "anchor_roomid": 0,
+      "anchor_uname": "",
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 1725515,
+      "medal_color_border": 6809855,
+      "medal_color_end": 5414290,
+      "medal_color_start": 1725515,
+      "medal_level": 21,
+      "medal_name": "鲸呆",
+      "special": "",
+      "target_id": 591892279
+    },
+    "name_color": "#00D1F1",
+    "r_uname": "希月萌奈",
+    "ruid": 591892279,
+    "send_master": null,
+    "total_num": 2,
+    "uid": 522684278,
+    "uname": "想钓鲸鱼的老白"
+  }
+}

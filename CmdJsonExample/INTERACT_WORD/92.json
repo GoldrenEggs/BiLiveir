@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 20,
+    "fans_medal": {
+      "anchor_roomid": 5169315,
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 398668,
+      "medal_color_border": 6809855,
+      "medal_color_end": 6850801,
+      "medal_color_start": 398668,
+      "medal_level": 25,
+      "medal_name": "小早凉",
+      "score": 50022649,
+      "special": "",
+      "target_id": 518817
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 1,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1721491683595,
+    "spread_desc": "流量包推广",
+    "spread_info": "#FF649E",
+    "tail_icon": 0,
+    "timestamp": 1671459034,
+    "trigger_time": 1671459034585847000,
+    "uid": 358335428,
+    "uname": "优库里伍德海尔赛斯you",
+    "uname_color": ""
+  }
+}

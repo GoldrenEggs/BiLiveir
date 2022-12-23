@@ -1,0 +1,39 @@
+{
+  "cmd": "COMBO_SEND",
+  "data": {
+    "action": "投喂",
+    "batch_combo_id": "batch:gift:combo_id:52932316:591892279:31036:1671458050.7230",
+    "batch_combo_num": 2,
+    "combo_id": "gift:combo_id:52932316:591892279:31036:1671458050.7219",
+    "combo_num": 2,
+    "combo_total_coin": 200,
+    "dmscore": 120,
+    "gift_id": 31036,
+    "gift_name": "小花花",
+    "gift_num": 0,
+    "is_naming": false,
+    "is_show": 1,
+    "medal_info": {
+      "anchor_roomid": 0,
+      "anchor_uname": "",
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 12478086,
+      "medal_color_border": 12478086,
+      "medal_color_end": 12478086,
+      "medal_color_start": 12478086,
+      "medal_level": 16,
+      "medal_name": "Lukey",
+      "special": "",
+      "target_id": 7069332
+    },
+    "name_color": "#00D1F1",
+    "r_uname": "希月萌奈",
+    "ruid": 591892279,
+    "send_master": null,
+    "total_num": 2,
+    "uid": 52932316,
+    "uname": "霁月姬季"
+  }
+}

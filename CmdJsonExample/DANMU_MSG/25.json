@@ -1,0 +1,90 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      16777215,
+      1671458068862,
+      -947388919,
+      0,
+      "bc3bac01",
+      0,
+      0,
+      0,
+      "",
+      1,
+      {
+        "bulge_display": 1,
+        "emoticon_unique": "room_22889484_892",
+        "height": 162,
+        "in_player_area": 1,
+        "is_dynamic": 1,
+        "url": "http://i0.hdslb.com/bfs/live/fb682a684dc96787634baea5a3745e4b0009c354.png",
+        "width": 162
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"好听\",\"user_hash\":\"3158027265\",\"emoticon_unique\":\"room_22889484_892\",\"bulge_display\":1,\"recommend_score\":7,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "好听",
+    [
+      354910197,
+      "夜花一依人",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      13,
+      "鲸呆",
+      "希月萌奈",
+      22889484,
+      12478086,
+      "",
+      0,
+      12478086,
+      12478086,
+      12478086,
+      0,
+      1,
+      591892279
+    ],
+    [
+      1,
+      0,
+      9868950,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458068,
+      "ct": "2ADB41BB"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    49
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806070",
+    "uid": "277718271",
+    "price": 30,
+    "rate": 1000,
+    "message": "给",
+    "message_jpn": "あげる",
+    "is_ranked": 0,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#EDF5FF",
+    "background_icon": "",
+    "background_price_color": "#7497CD",
+    "background_bottom_color": "#2A60B2",
+    "ts": 1671453246,
+    "token": "8277D05D",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 591892279,
+      "special": "",
+      "anchor_uname": "希月萌奈",
+      "anchor_roomid": 22889484,
+      "medal_level": 26,
+      "medal_name": "鲸呆",
+      "medal_color": "#6154c"
+    },
+    "user_info": {
+      "uname": "草菇F草草草",
+      "face": "https://i0.hdslb.com/bfs/face/df954e1872aaee1f8f6e1d011073cd735cae8d55.jpg",
+      "face_frame": "https://i0.hdslb.com/bfs/live/80f732943cc3367029df65e267960d56736a82ee.png",
+      "guard_level": 3,
+      "user_level": 20,
+      "level_color": "#61c05a",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 0,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 60,
+    "start_time": 1671453246,
+    "end_time": 1671453306,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

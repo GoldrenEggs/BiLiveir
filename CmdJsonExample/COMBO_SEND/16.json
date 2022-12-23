@@ -1,0 +1,39 @@
+{
+  "cmd": "COMBO_SEND",
+  "data": {
+    "action": "投喂",
+    "batch_combo_id": "batch:gift:combo_id:21311135:591892279:31036:1671457852.3525",
+    "batch_combo_num": 30,
+    "combo_id": "gift:combo_id:21311135:591892279:31036:1671457852.3513",
+    "combo_num": 30,
+    "combo_total_coin": 3000,
+    "dmscore": 120,
+    "gift_id": 31036,
+    "gift_name": "小花花",
+    "gift_num": 0,
+    "is_naming": false,
+    "is_show": 1,
+    "medal_info": {
+      "anchor_roomid": 0,
+      "anchor_uname": "",
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 0,
+      "medal_color_border": 0,
+      "medal_color_end": 0,
+      "medal_color_start": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "special": "",
+      "target_id": 0
+    },
+    "name_color": "#00D1F1",
+    "r_uname": "希月萌奈",
+    "ruid": 591892279,
+    "send_master": null,
+    "total_num": 30,
+    "uid": 21311135,
+    "uname": "失乐园的叶橙"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      4,
+      25,
+      14893055,
+      1671459040310,
+      1671452235,
+      0,
+      "f7547c76",
+      0,
+      0,
+      2,
+      "#19897EFF,#403F388E,#33897EFF",
+      0,
+      "{}",
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"八百！八百！\",\"user_hash\":\"4149509238\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":6,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "八百！八百！",
+    [
+      7723047,
+      "冰绒白咕咕123",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      "#E17AFF"
+    ],
+    [
+      30,
+      "雪狐咕",
+      "雪狐桑",
+      24393,
+      2951253,
+      "",
+      0,
+      16771156,
+      2951253,
+      10329087,
+      2,
+      1,
+      477792
+    ],
+    [
+      35,
+      0,
+      10512625,
+      ">50000",
+      0
+    ],
+    [
+      "title-634-1",
+      "title-634-1"
+    ],
+    0,
+    2,
+    null,
+    {
+      "ts": 1671459040,
+      "ct": "AD5DB2C5"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    112
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "cmd": "SUPER_CHAT_MESSAGE_JPN",
+  "data": {
+    "id": "5806193",
+    "uid": "22620801",
+    "price": 100,
+    "rate": 1000,
+    "message": "阿呆啊不鲸宝生日快乐!",
+    "message_jpn": "お誕生日おめでとう！",
+    "is_ranked": 1,
+    "background_image": "https://i0.hdslb.com/bfs/live/a712efa5c6ebc67bafbe8352d3e74b820a00c13e.png",
+    "background_color": "#FFF1C5",
+    "background_icon": "",
+    "background_price_color": "#ECCF75",
+    "background_bottom_color": "#E2B52B",
+    "ts": 1671453697,
+    "token": "3B1D0C94",
+    "medal_info": {
+      "icon_id": 0,
+      "target_id": 1939568047,
+      "special": "",
+      "anchor_uname": "沧海月萌",
+      "anchor_roomid": 25100511,
+      "medal_level": 24,
+      "medal_name": "被略了",
+      "medal_color": "#1a544b"
+    },
+    "user_info": {
+      "uname": "zyyyllyyyz",
+      "face": "https://i0.hdslb.com/bfs/face/142504971ff7db1c50fb6f353277d99ef1b47c34.jpg",
+      "face_frame": "",
+      "guard_level": 0,
+      "user_level": 22,
+      "level_color": "#5896de",
+      "is_vip": 0,
+      "is_svip": 0,
+      "is_main_vip": 0,
+      "title": "0",
+      "manager": 0
+    },
+    "time": 299,
+    "start_time": 1671453696,
+    "end_time": 1671453996,
+    "gift": {
+      "num": 1,
+      "gift_id": 12000,
+      "gift_name": "醒目留言"
+    }
+  },
+  "roomid": "22889484"
+}

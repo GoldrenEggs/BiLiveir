@@ -1,0 +1,46 @@
+{
+  "cmd": "NOTICE_MSG",
+  "id": 737,
+  "name": "BLS限时任务",
+  "full": {
+    "head_icon": "https://i0.hdslb.com/bfs/live/ab106f494f4cc0c94fb78ed46144c72f6db000f6.webp",
+    "tail_icon": "https://i0.hdslb.com/bfs/live/822da481fdaba986d738db5d8fd469ffa95a8fa1.webp",
+    "head_icon_fa": "https://i0.hdslb.com/bfs/live/ab106f494f4cc0c94fb78ed46144c72f6db000f6.webp",
+    "tail_icon_fa": "https://i0.hdslb.com/bfs/live/38cb2a9f1209b16c0f15162b0b553e3b28d9f16f.png",
+    "head_icon_fan": 1,
+    "tail_icon_fan": 4,
+    "background": "#b6272b",
+    "color": "#FFFFFFFF",
+    "highlight": "#FDFF2FFF",
+    "time": 15
+  },
+  "half": {
+    "head_icon": "https://i0.hdslb.com/bfs/live/ab106f494f4cc0c94fb78ed46144c72f6db000f6.webp",
+    "tail_icon": "",
+    "background": "#b6272b",
+    "color": "#FFFFFFFF",
+    "highlight": "#FDFF2FFF",
+    "time": 15
+  },
+  "side": {
+    "head_icon": "",
+    "background": "",
+    "color": "",
+    "highlight": "",
+    "border": ""
+  },
+  "roomid": 22889484,
+  "real_roomid": 22889484,
+  "msg_common": "",
+  "msg_self": "BLS限时任务：恭喜主播完成限时任务，直播间派发<%500元%>红包，速抢手慢无！",
+  "link_url": "",
+  "msg_type": 4,
+  "shield_uid": -1,
+  "business_id": "",
+  "scatter": {
+    "min": 0,
+    "max": 0
+  },
+  "marquee_id": "",
+  "notice_type": 0
+}

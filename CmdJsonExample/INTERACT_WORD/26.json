@@ -1,0 +1,40 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 6,
+    "fans_medal": {
+      "anchor_roomid": 10921840,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 12632256,
+      "medal_color_border": 12632256,
+      "medal_color_end": 12632256,
+      "medal_color_start": 12632256,
+      "medal_level": 5,
+      "medal_name": "太空",
+      "score": 1901,
+      "special": "",
+      "target_id": 19474906
+    },
+    "identities": [
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1671458452537,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458452,
+    "trigger_time": 1671458451406844200,
+    "uid": 12343920,
+    "uname": "诗雨Poera",
+    "uname_color": ""
+  }
+}

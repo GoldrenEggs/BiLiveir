@@ -1,0 +1,41 @@
+{
+  "cmd": "INTERACT_WORD",
+  "data": {
+    "contribution": {
+      "grade": 0
+    },
+    "dmscore": 20,
+    "fans_medal": {
+      "anchor_roomid": 23199554,
+      "guard_level": 3,
+      "icon_id": 0,
+      "is_lighted": 1,
+      "medal_color": 1725515,
+      "medal_color_border": 6809855,
+      "medal_color_end": 5414290,
+      "medal_color_start": 1725515,
+      "medal_level": 21,
+      "medal_name": "rabi兔",
+      "score": 50001598,
+      "special": "",
+      "target_id": 396316042
+    },
+    "identities": [
+      3,
+      1
+    ],
+    "is_spread": 0,
+    "msg_type": 1,
+    "privilege_type": 0,
+    "roomid": 22889484,
+    "score": 1721470208807,
+    "spread_desc": "",
+    "spread_info": "",
+    "tail_icon": 0,
+    "timestamp": 1671458610,
+    "trigger_time": 1671458609714248200,
+    "uid": 15187913,
+    "uname": "理想主义者杨",
+    "uname_color": ""
+  }
+}

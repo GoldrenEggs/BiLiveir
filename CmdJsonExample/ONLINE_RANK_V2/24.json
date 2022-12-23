@@ -1,0 +1,64 @@
+{
+  "cmd": "ONLINE_RANK_V2",
+  "data": {
+    "list": [
+      {
+        "uid": 476481,
+        "face": "https://i0.hdslb.com/bfs/face/8eae857075d5f129eb9991f17458d5576a7ce3aa.jpg",
+        "score": "178592",
+        "uname": "站在桥上看猫",
+        "rank": 1,
+        "guard_level": 1
+      },
+      {
+        "uid": 45141986,
+        "face": "https://i2.hdslb.com/bfs/face/3d6725f5f53b562649e9675a4129ff541ee10319.jpg",
+        "score": "21323",
+        "uname": "细雨绵霏",
+        "rank": 2,
+        "guard_level": 2
+      },
+      {
+        "uid": 20411920,
+        "face": "https://i1.hdslb.com/bfs/face/60612d0c928da203b7e5e6a603b3887ffb3ec33f.jpg",
+        "score": "21318",
+        "uname": "鲸宝家的晨曦干妈",
+        "rank": 3,
+        "guard_level": 2
+      },
+      {
+        "uid": 3390514,
+        "face": "https://i1.hdslb.com/bfs/face/227367817f73a1bb07b49efa86d160f0c0de046a.jpg",
+        "score": "20060",
+        "uname": "紫月小天使",
+        "rank": 4,
+        "guard_level": 2
+      },
+      {
+        "uid": 3432647,
+        "face": "https://i2.hdslb.com/bfs/face/013e7d7f0dbf5dac58f52fcba5fbb1a5be62addb.jpg",
+        "score": "19986",
+        "uname": "神判更纱",
+        "rank": 5,
+        "guard_level": 2
+      },
+      {
+        "uid": 386962210,
+        "face": "https://i1.hdslb.com/bfs/face/7e921ed21010bc08629bcf09a7153a6aa3536380.jpg",
+        "score": "18991",
+        "uname": "随意人生999",
+        "rank": 6,
+        "guard_level": 2
+      },
+      {
+        "uid": 286489741,
+        "face": "https://i1.hdslb.com/bfs/face/53e3f347c28a3d76481499f295b29ab40c5d1623.jpg",
+        "score": "16534",
+        "uname": "--泠墨--",
+        "rank": 7,
+        "guard_level": 2
+      }
+    ],
+    "rank_type": "gold-rank"
+  }
+}

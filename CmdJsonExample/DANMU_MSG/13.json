@@ -1,0 +1,90 @@
+{
+  "cmd": "DANMU_MSG",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      16777215,
+      1671458610493,
+      -2049461277,
+      0,
+      "00aa5e84",
+      0,
+      0,
+      0,
+      "",
+      1,
+      {
+        "bulge_display": 0,
+        "emoticon_unique": "official_147",
+        "height": 60,
+        "in_player_area": 1,
+        "is_dynamic": 0,
+        "url": "http://i0.hdslb.com/bfs/live/bbd9045570d0c022a984c637e406cb0e1f208aa9.png",
+        "width": 150
+      },
+      "{}",
+      {
+        "mode": 0,
+        "show_player_type": 0,
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"赞\",\"user_hash\":\"11165316\",\"emoticon_unique\":\"official_147\",\"bulge_display\":0,\"recommend_score\":7,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      }
+    ],
+    "赞",
+    [
+      483932749,
+      "o乖宝宝o",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      9,
+      "迪笳",
+      "笳米_纯爱战神",
+      25262299,
+      9272486,
+      "",
+      0,
+      12632256,
+      12632256,
+      12632256,
+      0,
+      0,
+      701041148
+    ],
+    [
+      22,
+      0,
+      5805790,
+      ">50000",
+      0
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ts": 1671458610,
+      "ct": "FBC81A08"
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    21
+  ]
+}

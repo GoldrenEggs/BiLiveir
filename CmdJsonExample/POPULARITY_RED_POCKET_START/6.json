@@ -1,0 +1,43 @@
+{
+  "cmd": "POPULARITY_RED_POCKET_START",
+  "data": {
+    "lot_id": 7903327,
+    "sender_uid": 1407831746,
+    "sender_name": "直播小电视",
+    "sender_face": "http://i2.hdslb.com/bfs/face/72c99193ee2c32f14b7b60711ec4c2ce2eced60c.jpg",
+    "join_requirement": 1,
+    "danmu": "老板大气！点点红包抽礼物！",
+    "current_time": 1671456627,
+    "start_time": 1671456627,
+    "end_time": 1671456807,
+    "last_time": 180,
+    "remove_time": 1671456822,
+    "replace_time": 1671456817,
+    "lot_status": 1,
+    "h5_url": "https://live.bilibili.com/p/html/live-app-red-envelope/popularity.html?is_live_half_webview=1&hybrid_half_ui=1,5,100p,100p,000000,0,50,0,0,1;2,5,100p,100p,000000,0,50,0,0,1;3,5,100p,100p,000000,0,50,0,0,1;4,5,100p,100p,000000,0,50,0,0,1;5,5,100p,100p,000000,0,50,0,0,1;6,5,100p,100p,000000,0,50,0,0,1;7,5,100p,100p,000000,0,50,0,0,1;8,5,100p,100p,000000,0,50,0,0,1&hybrid_rotate_d=1&hybrid_biz=popularityRedPacket&lotteryId=7903327",
+    "user_status": 2,
+    "awards": [
+      {
+        "gift_id": 31215,
+        "gift_name": "花式夸夸",
+        "gift_pic": "https://s1.hdslb.com/bfs/live/28186596880db45a7b843f17d6ebb70feeac06f9.png",
+        "num": 3
+      },
+      {
+        "gift_id": 31251,
+        "gift_name": "干杯",
+        "gift_pic": "https://s1.hdslb.com/bfs/live/96ec38f351a4e190c4a525bc5e11ff09d2874064.png",
+        "num": 10
+      },
+      {
+        "gift_id": 31278,
+        "gift_name": "打call",
+        "gift_pic": "https://s1.hdslb.com/bfs/live/461be640f60788c1d159ec8d6c5d5cf1ef3d1830.png",
+        "num": 70
+      }
+    ],
+    "lot_config_id": 95,
+    "total_price": 200000,
+    "wait_num": 10
+  }
+}
