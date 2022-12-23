@@ -49,7 +49,7 @@ live.run()  # 启动live
 Biliveir
 │
 ├─src - 代码
-│  ├─crawler.py - 直播连接与
+│  ├─crawler.py - 直播连接工具与消息推送处理器
 │  ├─live_pusher.py - 开播推送及提醒相关，无用(不是我写的)
 │  ├─log.py - 日志记录工具
 │  └─message.py - 消息类及原始消息解析方法（待补充）
