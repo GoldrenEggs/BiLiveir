@@ -52,7 +52,7 @@ Biliveir
 │  ├─crawler.py - 直播连接与
 │  ├─live_pusher.py - 开播推送及提醒相关，无用(不是我写的)
 │  ├─log.py - 日志记录工具
-│  └─message.py
+│  └─message.py - 消息类及原始消息解析方法（待补充）
 │
 ├─CmdJsonExample - 原始消息结构示例
 │  ├─DANMU_MSG - 弹幕消息示例
@@ -66,7 +66,6 @@ Biliveir
 ├─minimize.py - 最小应用示例
 ├─requirement.txt - 必备第三方模块
 └─LICENSE - 开源协议
-
 ```
 
 类 - Object
