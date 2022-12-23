@@ -40,7 +40,7 @@ live.run()  # 启动live
 
 使用方法
 ---
-详见`start.py`
+详见 [start.py](start.py)
 
 
 类 - Object
