@@ -18,6 +18,10 @@ async def alpha(msg):  # 此处必须且只能包含一个必备参数
 live.run()  # 启动live
 ```
 
+~~真正的最小应用示例：  
+`Live(114514).run(False).danmu_msg(lambda data: print(data)), input()`~~
+
+
 类 - Object
 ---
 

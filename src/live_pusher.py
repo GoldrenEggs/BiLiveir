@@ -1,3 +1,6 @@
+"""
+此文件不使用
+"""
 import asyncio
 import json
 import random

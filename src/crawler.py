@@ -176,6 +176,17 @@ class Live:
 
         return wrap
 
+    def to_coroutine(self, func):
+        @wraps(func)
+        async def wrap(*args, **kwargs):
+            return func(*args, **kwargs)
+
+        if asyncio.iscoroutinefunction(func):
+            return func
+        else:
+            self.logger.warn(f'{func} 请尽量使用异步函数')
+            return wrap
+
     def register(self, cmd: str = '') -> Callable[[Callable[[dict], Any]], Callable[[dict], Any]]:
         """
         自定义CMD解析方法,不填为解析所有方法
@@ -183,55 +194,68 @@ class Live:
         """
 
         def set_decorators(func: Callable[[dict], Any]) -> Callable[[dict], Any]:
-            self._coroutines[cmd].append(self._error_report(func))
+            function = self.to_coroutine(func)
+            self._coroutines[cmd].append(self._error_report(function))
             return func
 
         return set_decorators
 
     def all(self, func: Callable[[dict], Any]):
-        self._coroutines[''].append(self._error_report(func))
+        function = self.to_coroutine(func)
+        self._coroutines[''].append(self._error_report(function))
         return func
 
     def unregistered(self, func: Callable[[dict], Any]):
-        self._coroutines['UNREGISTERED'].append(self._error_report(func))
+        function = self.to_coroutine(func)
+        self._coroutines['UNREGISTERED'].append(self._error_report(function))
         return func
 
     def heart_beat_reply(self, func: Callable[[HeartBeatReply], Any]):
+        function = self.to_coroutine(func)
+
         @wraps(func)
         async def register_func(data: dict):
-            return await func(HeartBeatReply(data))
+            return await function(HeartBeatReply(data))
 
         self._coroutines['HEART_BEAT_REPLY'].append(self._error_report(register_func))
         return register_func
 
     def danmu_msg(self, func: Callable[[DanmuMsg], Any]):
+        function = self.to_coroutine(func)
+
         @wraps(func)
         async def register_func(data: dict):
-            return await func(DanmuMsg(data))
+            return await function(DanmuMsg(data))
 
         self._coroutines['DANMU_MSG'].append(self._error_report(register_func))
         return register_func
 
     def super_chat_message(self, func: Callable[[SuperChatMessage], Any]):
+        function = self.to_coroutine(func)
+
         @wraps(func)
         async def register_func(data: dict):
-            return await func(SuperChatMessage(data))
+            return await function(SuperChatMessage(data))
 
         self._coroutines['SUPER_CHAT_MESSAGE'].append(self._error_report(register_func))
         return register_func
 
     def entry_effect(self, func: Callable[[EntryEffect], Any]):
+        function = self.to_coroutine(func)
+
         @wraps(func)
         async def register_func(data: dict):
-            return await func(EntryEffect(data))
+            return await function(EntryEffect(data))
 
         self._coroutines['ENTRY_EFFECT'].append(self._error_report(register_func))
         return register_func
 
     def danmu_aggregation(self, func: Callable[[DanmuAggregation], Any]):
+        function = self.to_coroutine(func)
+
         @wraps(func)
         async def register_func(data: dict):
-            return await func(DanmuAggregation(data))
+            return await function(DanmuAggregation(data))
 
         self._coroutines['DANMU_AGGREGATION'].append(self._error_report(register_func))
         return register_func

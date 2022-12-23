@@ -18,12 +18,18 @@ async def danmu_msg(data: messages.DanmuMsg):
     log.info(data)
 
 
-
-
 @live.super_chat_message
 async def super_chat_message(data: messages.SuperChatMessage):
     print(data.uid, data.price)
     log.info(data)
+
+
+live.entry_effect(lambda data: print(data))
+
+
+@live.danmu_aggregation
+def danmu_aggregation(data: messages.DanmuAggregation):
+    print(data)
 
 
 @live.register('GUARD_BUY')
@@ -44,7 +50,7 @@ async def unregistered(data: dict):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-live.run(block=False)
+live.run(block=True)
 
 live2 = Live(2668802)
 

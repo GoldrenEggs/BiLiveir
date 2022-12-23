@@ -9,3 +9,5 @@ async def alpha(msg):  # 此处必须且只能包含一个必备参数
 
 
 live.run()  # 启动live
+
+# Live(114514).run(False).heart_beat_reply(lambda data: print(data)),input()
