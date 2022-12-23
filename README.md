@@ -50,7 +50,7 @@ Biliveir
 │
 ├─src - 代码
 │  ├─crawler.py - 直播连接与
-│  ├─live_pusher.py - 开播推送及提醒相关，无用
+│  ├─live_pusher.py - 开播推送及提醒相关，无用(不是我写的)
 │  ├─log.py - 日志记录工具
 │  └─message.py
 │
