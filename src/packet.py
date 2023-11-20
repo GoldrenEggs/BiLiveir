@@ -1,29 +1,31 @@
 import json
 from enum import Enum
-from struct import pack
+from struct import pack, unpack
+from typing import Self
 from dataclasses import dataclass
 
 
 class ProtocolVersion(Enum):
-    NORMAL = 0
-    AUTH_AND_HEARTBEAT = 1
-    NORMAL_ZLIB = 2
-    NORMAL_BROTLI = 3
+    NORMAL = 0  # 通常包不压缩
+    AUTH_OR_HEARTBEAT = 1  # 认证及协议包不压缩
+    NORMAL_ZLIB = 2  # 通常包zlib压缩
+    NORMAL_BROTLI = 3  # 通常包brotli压缩
 
 
 class OperationCode(Enum):
-    HEARTBEAT = 2
-    HEARTBEAT_REPLY = 3
-    NORMAL = 5
-    AUTH = 7
-    AUTH_REPLY = 8
+    HEARTBEAT = 2  # 心跳包
+    HEARTBEAT_REPLY = 3  # 心跳包回复
+    NORMAL = 5  # 通常包
+    AUTH = 7  # 认证包
+    AUTH_REPLY = 8  # 认证包回复
 
 
 class MQPacket:
 
-    def __init__(self, protocol_version: ProtocolVersion, operation_code: OperationCode, sequence: int, data: bytes):
-        self.packet_length = 16 + len(data)
-        self.header_length = 16
+    def __init__(self, protocol_version: ProtocolVersion, operation_code: OperationCode, sequence: int, data: bytes,
+                 packet_length: int = None, header_length: int = 16):
+        self.packet_length = packet_length or (header_length + len(data))
+        self.header_length = header_length
         self.protocol_version = protocol_version
         self.operation_code = operation_code
         self.sequence = sequence
@@ -32,6 +34,14 @@ class MQPacket:
     def pack(self):
         return pack('!IHHII', self.packet_length, self.header_length, self.protocol_version.value,
                     self.operation_code.value, self.sequence) + self.data
+
+    @classmethod
+    def unpack(cls, packet: bytes) -> Self:
+        packet_length, header_length, protocol_version, operation_code, sequence = unpack('!IHHII', packet[:16])
+        return MQPacket(
+            ProtocolVersion(protocol_version), OperationCode(operation_code), sequence,
+            packet[header_length:], packet_length=packet_length, header_length=header_length
+        )
 
 
 # noinspection SpellCheckingInspection
@@ -57,7 +67,7 @@ class AuthData:
 
 class AuthPacket(MQPacket):
     def __init__(self, sequence: int, data: AuthData):
-        super().__init__(ProtocolVersion.AUTH_AND_HEARTBEAT, OperationCode.AUTH, sequence, bytes(data))
+        super().__init__(ProtocolVersion.AUTH_OR_HEARTBEAT, OperationCode.AUTH, sequence, bytes(data))
 
     def pack(self):
         return super().pack()
@@ -73,7 +83,7 @@ class HeartbeatData:
 
 class HeartbeatPacket(MQPacket):
     def __init__(self, sequence: int, data: HeartbeatData):
-        super().__init__(ProtocolVersion.AUTH_AND_HEARTBEAT, OperationCode.HEARTBEAT, sequence, bytes(data))
+        super().__init__(ProtocolVersion.AUTH_OR_HEARTBEAT, OperationCode.HEARTBEAT, sequence, bytes(data))
 
     def pack(self) -> bytes:
         return super().pack()
