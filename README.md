@@ -33,7 +33,7 @@ async def alpha(msg):  # 此处必须且只能包含一个必备参数
     print(msg)  # 打印msg对象，会调用data.__str__方法。
 
 
-live.run()  # 启动live
+live.sync_run()  # 启动live
 ```
 
 ~~真正的最小应用示例：~~  

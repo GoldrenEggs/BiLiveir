@@ -20,7 +20,7 @@ class OperationCode(Enum):
     AUTH_REPLY = 8  # 认证包回复
 
 
-class MQPacket:
+class MqPacket:
 
     def __init__(self, protocol_version: ProtocolVersion, operation_code: OperationCode, sequence: int, data: bytes,
                  packet_length: int = None, header_length: int = 16):
@@ -38,9 +38,9 @@ class MQPacket:
     @classmethod
     def unpack(cls, packet: bytes) -> Self:
         packet_length, header_length, protocol_version, operation_code, sequence = unpack('!IHHII', packet[:16])
-        return MQPacket(
+        return MqPacket(
             ProtocolVersion(protocol_version), OperationCode(operation_code), sequence,
-            packet[header_length:], packet_length=packet_length, header_length=header_length
+            packet[header_length:packet_length], packet_length=packet_length, header_length=header_length
         )
 
 
@@ -57,7 +57,7 @@ class AuthData:
     def __bytes__(self):
         return bytes(json.dumps({
             'uid': self.uid,
-            'room_id': self.room_id,
+            'roomid': self.room_id,
             'protover': self.protover,
             'platform': self.platform,
             'type': self.type,
@@ -65,7 +65,7 @@ class AuthData:
         }), encoding='utf-8')
 
 
-class AuthPacket(MQPacket):
+class AuthPacket(MqPacket):
     def __init__(self, sequence: int, data: AuthData):
         super().__init__(ProtocolVersion.AUTH_OR_HEARTBEAT, OperationCode.AUTH, sequence, bytes(data))
 
@@ -81,7 +81,7 @@ class HeartbeatData:
         return self.message.encode('utf-8')
 
 
-class HeartbeatPacket(MQPacket):
+class HeartbeatPacket(MqPacket):
     def __init__(self, sequence: int, data: HeartbeatData):
         super().__init__(ProtocolVersion.AUTH_OR_HEARTBEAT, OperationCode.HEARTBEAT, sequence, bytes(data))
 

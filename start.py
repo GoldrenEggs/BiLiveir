@@ -50,7 +50,7 @@ async def unregistered(data: dict):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-live.run(block=True)
+live.sync_run(block=True)
 
 live2 = Live(2668802)
 
@@ -60,4 +60,4 @@ async def all_cmd(data: dict):
     print(f'live2: {data}')
 
 
-live2.run()
+live2.sync_run()
