@@ -4,22 +4,29 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 12,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 21652717,
+      "anchor_roomid": 81711,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 1,
-      "medal_color": 9272486,
-      "medal_color_border": 9272486,
-      "medal_color_end": 9272486,
-      "medal_color_start": 9272486,
-      "medal_level": 12,
-      "medal_name": "抱豹豹",
-      "score": 26389,
+      "medal_color": 12478086,
+      "medal_color_border": 12478086,
+      "medal_color_end": 12478086,
+      "medal_color_start": 12478086,
+      "medal_level": 15,
+      "medal_name": "少北",
+      "score": 84201,
       "special": "",
-      "target_id": 477332594
+      "target_id": 2206456
     },
+    "group_medal": null,
     "identities": [
       3,
       1
@@ -27,15 +34,16 @@
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671494397671,
+    "roomid": 923833,
+    "score": 1700730344599,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458008,
-    "trigger_time": 1671458007522791700,
-    "uid": 521857692,
-    "uname": "我躺在中微子上",
+    "tail_text": "",
+    "timestamp": 1700636143,
+    "trigger_time": 1700636142504525300,
+    "uid": 0,
+    "uname": "雪***",
     "uname_color": ""
   }
 }

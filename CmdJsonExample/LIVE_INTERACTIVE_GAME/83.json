@@ -1,0 +1,22 @@
+{
+  "cmd": "LIVE_INTERACTIVE_GAME",
+  "data": {
+    "type": 2,
+    "uid": 243842053,
+    "uname": "--五香蛋--",
+    "uface": "",
+    "gift_id": 0,
+    "gift_name": "",
+    "gift_num": 0,
+    "price": 0,
+    "paid": false,
+    "msg": "1路砸",
+    "fans_medal_level": 0,
+    "guard_level": 0,
+    "timestamp": 1700636131,
+    "anchor_lottery": null,
+    "pk_info": null,
+    "anchor_info": null,
+    "combo_info": null
+  }
+}

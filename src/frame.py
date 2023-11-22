@@ -10,7 +10,7 @@ from dataclasses import dataclass
 from src.connect import LiveConnect
 from src.decode import decode_packet
 from src.log import logger
-from src.parse import Message
+from src.message import Message
 
 HandlerFunc: TypeAlias = Callable[..., Coroutine]
 T_RAW_HANDLER_FUNC = TypeVar('T_RAW_HANDLER_FUNC', bound=HandlerFunc)

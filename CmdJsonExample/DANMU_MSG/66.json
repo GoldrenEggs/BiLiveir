@@ -3,59 +3,60 @@
   "info": [
     [
       0,
-      4,
+      1,
       25,
-      14893055,
-      1671458609189,
+      16777215,
+      1700636526397,
+      1700627772,
+      0,
+      "79bc0354",
       0,
       0,
-      "6f978c1f",
       0,
-      2,
-      5,
-      "#1453BAFF,#4C2263A2,#3353BAFF",
+      "",
       0,
       "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"祝鲸宝生日快乐！\",\"user_hash\":\"1872202783\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":8,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"哈哈哈哈哈哈\",\"user_hash\":\"2042364756\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":3,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"6f9f3f10d9ad695d6659dce1c878e77046\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
-        "activity_identity": "3603585",
-        "activity_source": 1,
-        "not_show": 1
-      }
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      },
+      0
     ],
-    "祝鲸宝生日快乐！",
+    "哈哈哈哈哈哈",
     [
-      258782190,
-      "可做观赏植物也可药用",
+      0,
+      "干***",
       0,
       0,
       0,
       10000,
       1,
-      "#00D1F1"
+      ""
     ],
     [
-      3,
-      "虚拟鳖",
-      "sunnyopen",
-      8222287,
+      4,
+      "3B1B",
+      "3Blue1Brown",
+      3621083,
       6067854,
       "",
       0,
-      6067854,
-      6067854,
-      6067854,
+      12632256,
+      12632256,
+      12632256,
       0,
-      1,
-      2122613
+      0,
+      88461692
     ],
     [
-      9,
+      0,
       0,
       9868950,
       ">50000",
@@ -66,17 +67,22 @@
       ""
     ],
     0,
-    3,
+    0,
     null,
     {
-      "ts": 1671458609,
-      "ct": "4AF6418"
+      "ts": 1700636526,
+      "ct": "474E0DB0"
     },
     0,
     0,
     null,
     null,
     0,
-    105
-  ]
+    14,
+    [
+      0
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

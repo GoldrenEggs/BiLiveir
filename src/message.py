@@ -1,5 +1,5 @@
 import abc
-from typing import Self
+from typing import Self, Coroutine
 
 
 class Message(abc.ABC):

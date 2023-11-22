@@ -1,0 +1,32 @@
+{
+  "cmd": "COMMON_NOTICE_DANMAKU",
+  "data": {
+    "biz_id": 0,
+    "content_segments": [
+      {
+        "font_color": "#FFC73E",
+        "font_color_dark": "#FFC73E",
+        "highlight_font_color": "#CCCCCC",
+        "highlight_font_color_dark": "#CCCCCC",
+        "text": "<%恭喜主播 沉默寡言白河愁 %>成为 上小时人气榜 第 35 名！",
+        "type": 1
+      }
+    ],
+    "danmaku_style": {
+      "background_color": [
+        "#66000000"
+      ],
+      "background_color_dark": [
+        "#66000000"
+      ]
+    },
+    "danmaku_uri": "",
+    "dmscore": 144,
+    "terminals": [
+      1,
+      2,
+      3,
+      5
+    ]
+  }
+}

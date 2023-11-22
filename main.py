@@ -3,7 +3,7 @@ import os
 import random
 
 from src import Biliveir
-from src.parse import DanmuMsg
+from src.message import DanmuMsg
 
 biliveir = Biliveir(923833)
 

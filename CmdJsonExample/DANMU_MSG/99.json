@@ -6,10 +6,10 @@
       1,
       25,
       16777215,
-      1700635546194,
-      -346216430,
+      1700636594585,
+      2139879191,
       0,
-      "94a67952",
+      "cd79125e",
       0,
       0,
       0,
@@ -20,7 +20,7 @@
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"四路一个巨人够了\",\"user_hash\":\"2493938002\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":8,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"4171175479b7422040037881f9655da345\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"寄了\",\"user_hash\":\"3447263838\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":4,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"750d40da53338030429956e4ad655da780\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
@@ -29,10 +29,10 @@
       },
       0
     ],
-    "四路一个巨人够了",
+    "寄了",
     [
       0,
-      "雨***",
+      "S***",
       0,
       0,
       0,
@@ -56,8 +56,8 @@
     0,
     null,
     {
-      "ts": 1700635546,
-      "ct": "C3B6090"
+      "ts": 1700636594,
+      "ct": "2DFAA85"
     },
     0,
     0,

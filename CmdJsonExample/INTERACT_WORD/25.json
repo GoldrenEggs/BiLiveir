@@ -4,6 +4,12 @@
     "contribution": {
       "grade": 0
     },
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
     "dmscore": 2,
     "fans_medal": {
       "anchor_roomid": 0,
@@ -20,21 +26,23 @@
       "special": "",
       "target_id": 0
     },
+    "group_medal": null,
     "identities": [
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671459032430,
+    "roomid": 923833,
+    "score": 1700636698333,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671459032,
-    "trigger_time": 1671459031391909000,
-    "uid": 22527162,
-    "uname": "一只摸你傻",
+    "tail_text": "",
+    "timestamp": 1700636698,
+    "trigger_time": 1700636697302497000,
+    "uid": 0,
+    "uname": "酷***",
     "uname_color": ""
   }
 }

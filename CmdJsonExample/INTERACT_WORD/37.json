@@ -4,38 +4,45 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 20,
-    "fans_medal": {
-      "anchor_roomid": 22816111,
-      "guard_level": 3,
-      "icon_id": 0,
-      "is_lighted": 1,
-      "medal_color": 1725515,
-      "medal_color_border": 6809855,
-      "medal_color_end": 5414290,
-      "medal_color_start": 1725515,
-      "medal_level": 21,
-      "medal_name": "棺人痴",
-      "score": 50001380,
-      "special": "",
-      "target_id": 1437582453
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
     },
+    "core_user_type": 0,
+    "dmscore": 2,
+    "fans_medal": {
+      "anchor_roomid": 0,
+      "guard_level": 0,
+      "icon_id": 0,
+      "is_lighted": 0,
+      "medal_color": 0,
+      "medal_color_border": 0,
+      "medal_color_end": 0,
+      "medal_color_start": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "score": 0,
+      "special": "",
+      "target_id": 0
+    },
+    "group_medal": null,
     "identities": [
-      3,
       1
     ],
-    "is_spread": 1,
+    "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1721469973121,
-    "spread_desc": "流量包推广",
-    "spread_info": "#FF649E",
+    "roomid": 923833,
+    "score": 1700636432918,
+    "spread_desc": "",
+    "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458593,
-    "trigger_time": 1671458593111331300,
-    "uid": 487099208,
-    "uname": "雨夜殉情",
+    "tail_text": "",
+    "timestamp": 1700636432,
+    "trigger_time": 1700636431631208200,
+    "uid": 0,
+    "uname": "n***",
     "uname_color": ""
   }
 }

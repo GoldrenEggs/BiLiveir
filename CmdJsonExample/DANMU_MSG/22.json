@@ -6,10 +6,10 @@
       1,
       25,
       16777215,
-      1671457978979,
-      1671457897,
+      1700636154763,
+      -1546523567,
       0,
-      "5bb396d1",
+      "08ff3789",
       0,
       0,
       0,
@@ -20,18 +20,19 @@
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"史詩級加強\",\"user_hash\":\"1538496209\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":2,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"大爷机枪\",\"user_hash\":\"150943625\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":3,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"2f763c537c734e807a32262cd2655da521\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
         "activity_source": 0,
         "not_show": 0
-      }
+      },
+      0
     ],
-    "史詩級加強",
+    "大爷机枪",
     [
-      315441725,
-      "夜嵐祈",
+      0,
+      "帅***",
       0,
       0,
       0,
@@ -39,23 +40,9 @@
       1,
       ""
     ],
+    [],
     [
-      6,
-      "莉娅娅",
-      "奈奈莉娅Channel",
-      22301377,
-      6126494,
-      "",
       0,
-      6126494,
-      6126494,
-      6126494,
-      0,
-      1,
-      489146840
-    ],
-    [
-      1,
       0,
       9868950,
       ">50000",
@@ -69,14 +56,19 @@
     0,
     null,
     {
-      "ts": 1671457978,
-      "ct": "640B5C07"
+      "ts": 1700636154,
+      "ct": "E59B5842"
     },
     0,
     0,
     null,
     null,
     0,
-    21
-  ]
+    7,
+    [
+      5
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

@@ -1,0 +1,22 @@
+{
+  "cmd": "LIVE_INTERACTIVE_GAME",
+  "data": {
+    "type": 2,
+    "uid": 2028243622,
+    "uname": "边缘人回归了吗",
+    "uface": "",
+    "gift_id": 0,
+    "gift_name": "",
+    "gift_num": 0,
+    "price": 0,
+    "paid": false,
+    "msg": "橄榄球武王直接过",
+    "fans_medal_level": 0,
+    "guard_level": 0,
+    "timestamp": 1700636746,
+    "anchor_lottery": null,
+    "pk_info": null,
+    "anchor_info": null,
+    "combo_info": null
+  }
+}

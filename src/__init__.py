@@ -1,4 +1,4 @@
 from .frame import Biliveir
-from . import parse as message
+from . import message
 
 __all__ = ['Biliveir', 'message']
