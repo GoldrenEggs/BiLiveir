@@ -3,47 +3,62 @@
   "info": [
     [
       0,
-      4,
+      1,
       25,
-      14893055,
-      1671458612307,
+      16777215,
+      1700636066577,
+      391991699,
+      0,
+      "6f3192ff",
       0,
       0,
-      "5c61b5f8",
       0,
-      2,
-      5,
-      "#1453BAFF,#4C2263A2,#3353BAFF",
+      "",
       0,
       "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"祝鲸宝生日快乐！\",\"user_hash\":\"1549907448\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":2,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"机枪\",\"user_hash\":\"1865519871\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":1,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"08ef6cd52729d2e80720f3f290655da582\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
-        "activity_identity": "3603585",
-        "activity_source": 1,
-        "not_show": 1
-      }
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      },
+      0
     ],
-    "祝鲸宝生日快乐！",
+    "机枪",
     [
-      455954910,
-      "夜夜nano",
+      0,
+      "つ***",
       0,
       0,
       0,
       10000,
       1,
-      "#00D1F1"
+      ""
     ],
-    [],
     [
-      11,
+      22,
+      "干饭萨",
+      "萨满祭司少女彼岸",
+      700429,
+      1725515,
+      "",
       0,
-      6406234,
+      12632256,
+      12632256,
+      12632256,
+      0,
+      0,
+      5400524
+    ],
+    [
+      10,
+      0,
+      9868950,
       ">50000",
       0
     ],
@@ -52,17 +67,22 @@
       ""
     ],
     0,
-    3,
+    0,
     null,
     {
-      "ts": 1671458612,
-      "ct": "A0993A6D"
+      "ts": 1700636066,
+      "ct": "F70395DF"
     },
     0,
     0,
     null,
     null,
     0,
-    105
-  ]
+    56,
+    [
+      17
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

@@ -4,39 +4,46 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 30,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 5169315,
-      "guard_level": 3,
+      "anchor_roomid": 7639896,
+      "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 1,
-      "medal_color": 398668,
-      "medal_color_border": 6809855,
-      "medal_color_end": 6850801,
-      "medal_color_start": 398668,
-      "medal_level": 25,
-      "medal_name": "小早凉",
-      "score": 50029224,
+      "medal_color": 12478086,
+      "medal_color_border": 12478086,
+      "medal_color_end": 12478086,
+      "medal_color_start": 12478086,
+      "medal_level": 14,
+      "medal_name": "周报君",
+      "score": 52280,
       "special": "",
-      "target_id": 518817
+      "target_id": 546495
     },
+    "group_medal": null,
     "identities": [
-      6,
       3,
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
-    "privilege_type": 3,
-    "roomid": 22889484,
-    "score": 1721546713236,
+    "privilege_type": 0,
+    "roomid": 923833,
+    "score": 1700698051178,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671507489,
-    "trigger_time": 1671507488152144600,
-    "uid": 354803148,
-    "uname": "非灰即白A",
+    "tail_text": "",
+    "timestamp": 1700635771,
+    "trigger_time": 1700635770001926700,
+    "uid": 0,
+    "uname": "真***",
     "uname_color": ""
   }
 }

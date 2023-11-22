@@ -1,0 +1,22 @@
+{
+  "cmd": "LIVE_INTERACTIVE_GAME",
+  "data": {
+    "type": 2,
+    "uid": 1339034513,
+    "uname": "篱雀",
+    "uface": "",
+    "gift_id": 0,
+    "gift_name": "",
+    "gift_num": 0,
+    "price": 0,
+    "paid": false,
+    "msg": "两个玉米",
+    "fans_medal_level": 0,
+    "guard_level": 0,
+    "timestamp": 1700636077,
+    "anchor_lottery": null,
+    "pk_info": null,
+    "anchor_info": null,
+    "combo_info": null
+  }
+}

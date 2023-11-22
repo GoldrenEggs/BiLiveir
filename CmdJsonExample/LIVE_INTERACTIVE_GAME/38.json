@@ -1,0 +1,22 @@
+{
+  "cmd": "LIVE_INTERACTIVE_GAME",
+  "data": {
+    "type": 2,
+    "uid": 347113279,
+    "uname": "风逝君影草",
+    "uface": "",
+    "gift_id": 0,
+    "gift_name": "",
+    "gift_num": 0,
+    "price": 0,
+    "paid": false,
+    "msg": "因为阻挡吃花了铁桶只能吃曾",
+    "fans_medal_level": 15,
+    "guard_level": 0,
+    "timestamp": 1700635903,
+    "anchor_lottery": null,
+    "pk_info": null,
+    "anchor_info": null,
+    "combo_info": null
+  }
+}

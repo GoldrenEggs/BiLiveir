@@ -1,0 +1,22 @@
+{
+  "cmd": "LIVE_INTERACTIVE_GAME",
+  "data": {
+    "type": 2,
+    "uid": 13967337,
+    "uname": "银白的孤狼",
+    "uface": "",
+    "gift_id": 0,
+    "gift_name": "",
+    "gift_num": 0,
+    "price": 0,
+    "paid": false,
+    "msg": "坏了",
+    "fans_medal_level": 5,
+    "guard_level": 0,
+    "timestamp": 1700636057,
+    "anchor_lottery": null,
+    "pk_info": null,
+    "anchor_info": null,
+    "combo_info": null
+  }
+}

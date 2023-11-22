@@ -4,37 +4,45 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 16,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 47377,
+      "anchor_roomid": 27241414,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 0,
-      "medal_color": 12478086,
+      "medal_color": 6067854,
       "medal_color_border": 12632256,
       "medal_color_end": 12632256,
       "medal_color_start": 12632256,
-      "medal_level": 15,
-      "medal_name": "鸟蛋",
-      "score": 88651,
+      "medal_level": 4,
+      "medal_name": "蓬莱娅",
+      "score": 1600,
       "special": "",
-      "target_id": 282994
+      "target_id": 3493143703980571
     },
+    "group_medal": null,
     "identities": [
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671457951234,
+    "roomid": 923833,
+    "score": 1700636038846,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671457951,
-    "trigger_time": 1671457950242132000,
-    "uid": 401939507,
-    "uname": "仙之北方",
+    "tail_text": "",
+    "timestamp": 1700636038,
+    "trigger_time": 1700636037730401000,
+    "uid": 0,
+    "uname": "A***",
     "uname_color": ""
   }
 }

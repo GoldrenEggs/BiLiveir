@@ -12,19 +12,19 @@
     "core_user_type": 0,
     "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 22100922,
+      "anchor_roomid": 22803305,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 1,
-      "medal_color": 6126494,
-      "medal_color_border": 6126494,
-      "medal_color_end": 6126494,
-      "medal_color_start": 6126494,
-      "medal_level": 7,
-      "medal_name": "五雷王",
-      "score": 4700,
+      "medal_color": 12478086,
+      "medal_color_border": 12478086,
+      "medal_color_end": 12478086,
+      "medal_color_start": 12478086,
+      "medal_level": 15,
+      "medal_name": "云滴哥",
+      "score": 62300,
       "special": "",
-      "target_id": 452164428
+      "target_id": 525124571
     },
     "group_medal": null,
     "identities": [
@@ -35,15 +35,15 @@
     "msg_type": 1,
     "privilege_type": 0,
     "roomid": 923833,
-    "score": 1700650247143,
+    "score": 1700708069915,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
     "tail_text": "",
-    "timestamp": 1700635547,
-    "trigger_time": 1700635546081733000,
+    "timestamp": 1700635769,
+    "trigger_time": 1700635768848983600,
     "uid": 0,
-    "uname": "芭***",
+    "uname": "夜***",
     "uname_color": ""
   }
 }

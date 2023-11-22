@@ -1,0 +1,10 @@
+{
+  "cmd": "POPULAR_RANK_CHANGED",
+  "data": {
+    "uid": 34646754,
+    "rank": 32,
+    "countdown": 613,
+    "timestamp": 1700635788,
+    "cache_key": "rank_change:255098e7d1ce4402a99ad2384a4d0f65"
+  }
+}

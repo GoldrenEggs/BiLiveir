@@ -3,80 +3,86 @@
   "info": [
     [
       0,
-      4,
+      1,
       25,
       5816798,
-      1671458592692,
+      1700635872358,
+      387366434,
+      0,
+      "ebf87a3e",
       0,
       0,
-      "9095ce66",
       0,
-      2,
-      5,
-      "#1453BAFF,#4C2263A2,#3353BAFF",
+      "",
       0,
       "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5816798,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"祝鲸宝生日快乐！\",\"user_hash\":\"2425736806\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":6,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5816798,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"[耶]\",\"user_hash\":\"3958929982\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":4,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":{\"[耶]\":{\"count\":1,\"descript\":\"[耶]\",\"emoji\":\"[耶]\",\"emoticon_id\":290,\"emoticon_unique\":\"emoji_290\",\"height\":20,\"url\":\"http://i0.hdslb.com/bfs/live/eb2d84ba623e2335a48f73fb5bef87bcf53c1239.png\",\"width\":20}},\"is_audited\":false,\"id_str\":\"050c5a37d74adc1739d7893911655da436\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
-        "activity_identity": "3603585",
-        "activity_source": 1,
-        "not_show": 1
-      }
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      },
+      0
     ],
-    "祝鲸宝生日快乐！",
+    "[耶]",
     [
-      13617422,
-      "恋凛丶",
+      0,
+      "心***",
       0,
       0,
       0,
       10000,
       1,
-      "#00D1F1"
+      ""
     ],
     [
-      21,
-      "D累了",
-      "恋凛丶",
-      2421010,
-      1725515,
+      17,
+      "金毛犬",
+      "爱丝艾芙",
+      8728766,
+      13081892,
       "",
       0,
-      6809855,
-      1725515,
-      5414290,
-      3,
+      13081892,
+      13081892,
+      13081892,
+      0,
       1,
-      13617422
+      2700878
     ],
     [
-      20,
+      40,
       0,
-      6406234,
-      ">50000",
+      10512625,
+      35263,
       0
     ],
     [
-      "title-634-1",
-      "title-634-1"
+      "",
+      ""
     ],
     0,
-    3,
+    0,
     null,
     {
-      "ts": 1671458592,
-      "ct": "F8A6C729"
+      "ts": 1700635872,
+      "ct": "BF73D340"
     },
     0,
     0,
     null,
     null,
     0,
-    105
-  ]
+    56,
+    [
+      14
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

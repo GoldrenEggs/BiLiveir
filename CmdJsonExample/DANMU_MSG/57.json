@@ -3,69 +3,62 @@
   "info": [
     [
       0,
-      4,
-      25,
-      5566168,
-      1671457957735,
-      -1345959457,
-      0,
-      "da83d21b",
-      0,
-      0,
-      5,
-      "#1453BAFF,#4C2263A2,#3353BAFF",
       1,
-      {
-        "bulge_display": 1,
-        "emoticon_unique": "room_22889484_890",
-        "height": 162,
-        "in_player_area": 1,
-        "is_dynamic": 1,
-        "url": "http://i0.hdslb.com/bfs/live/498e8b98672dda596a26d42ec64abd83dc3cb68f.png",
-        "width": 162
-      },
+      25,
+      16777215,
+      1700636067667,
+      -1314295566,
+      0,
+      "9fa1c85b",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":1,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"好耶\",\"user_hash\":\"3666072091\",\"emoticon_unique\":\"room_22889484_890\",\"bulge_display\":1,\"recommend_score\":9,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"快步机枪\",\"user_hash\":\"2678179931\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":9,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"78a1ca50c721c6a243410bd142655da552\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
         "activity_source": 0,
         "not_show": 0
-      }
+      },
+      0
     ],
-    "好耶",
+    "快步机枪",
     [
-      3493079864576931,
-      "万水千山的旅程",
+      0,
+      "年***",
       0,
       0,
       0,
       10000,
       1,
-      "#00D1F1"
+      ""
     ],
     [
-      21,
-      "鲸呆",
-      "希月萌奈",
-      22889484,
-      1725515,
+      15,
+      "萌欣",
+      "-欣小萌-",
+      2339900,
+      12478086,
       "",
       0,
-      6809855,
-      1725515,
-      5414290,
-      3,
-      1,
-      591892279
+      12632256,
+      12632256,
+      12632256,
+      0,
+      0,
+      8366990
     ],
     [
-      6,
+      27,
       0,
-      9868950,
+      5805790,
       ">50000",
       0
     ],
@@ -74,17 +67,22 @@
       ""
     ],
     0,
-    3,
+    0,
     null,
     {
-      "ts": 1671457957,
-      "ct": "51F7296D"
+      "ts": 1700636067,
+      "ct": "722D5AF8"
     },
     0,
     0,
     null,
     null,
     0,
-    105
-  ]
+    56,
+    [
+      15
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

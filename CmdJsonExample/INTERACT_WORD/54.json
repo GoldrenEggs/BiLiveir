@@ -12,19 +12,19 @@
     "core_user_type": 0,
     "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 5984476,
+      "anchor_roomid": 0,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 0,
-      "medal_color": 12478086,
-      "medal_color_border": 12632256,
-      "medal_color_end": 12632256,
-      "medal_color_start": 12632256,
-      "medal_level": 13,
-      "medal_name": "西凉骑",
-      "score": 41950,
+      "medal_color": 0,
+      "medal_color_border": 0,
+      "medal_color_end": 0,
+      "medal_color_start": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "score": 0,
       "special": "",
-      "target_id": 223837282
+      "target_id": 0
     },
     "group_medal": null,
     "identities": [
@@ -34,15 +34,15 @@
     "msg_type": 1,
     "privilege_type": 0,
     "roomid": 923833,
-    "score": 1700635530958,
+    "score": 1700635869394,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
     "tail_text": "",
-    "timestamp": 1700635530,
-    "trigger_time": 1700635529943055400,
+    "timestamp": 1700635869,
+    "trigger_time": 1700635868385878000,
     "uid": 0,
-    "uname": "肆***",
+    "uname": "爱***",
     "uname_color": ""
   }
 }

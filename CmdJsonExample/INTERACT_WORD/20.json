@@ -4,38 +4,45 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 12,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 24849234,
+      "anchor_roomid": 0,
       "guard_level": 0,
       "icon_id": 0,
-      "is_lighted": 1,
-      "medal_color": 9272486,
-      "medal_color_border": 9272486,
-      "medal_color_end": 9272486,
-      "medal_color_start": 9272486,
-      "medal_level": 10,
-      "medal_name": "爱荔丝",
-      "score": 11500,
+      "is_lighted": 0,
+      "medal_color": 0,
+      "medal_color_border": 0,
+      "medal_color_end": 0,
+      "medal_color_start": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "score": 0,
       "special": "",
-      "target_id": 1211921847
+      "target_id": 0
     },
+    "group_medal": null,
     "identities": [
-      3,
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671479553152,
+    "roomid": 923833,
+    "score": 1700636060539,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458053,
-    "trigger_time": 1671458052011804200,
-    "uid": 43877386,
-    "uname": "大唐笑一笑",
+    "tail_text": "",
+    "timestamp": 1700636060,
+    "trigger_time": 1700636059476609500,
+    "uid": 0,
+    "uname": "鱼***",
     "uname_color": ""
   }
 }

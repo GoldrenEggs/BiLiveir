@@ -12,19 +12,19 @@
     "core_user_type": 0,
     "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 30799462,
+      "anchor_roomid": 3561767,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 1,
-      "medal_color": 9272486,
-      "medal_color_border": 9272486,
-      "medal_color_end": 9272486,
-      "medal_color_start": 9272486,
-      "medal_level": 10,
-      "medal_name": "没悠钱",
-      "score": 11380,
+      "medal_color": 13081892,
+      "medal_color_border": 13081892,
+      "medal_color_end": 13081892,
+      "medal_color_start": 13081892,
+      "medal_level": 19,
+      "medal_name": "菲娜",
+      "score": 580245,
       "special": "",
-      "target_id": 3493078163785868
+      "target_id": 82389
     },
     "group_medal": null,
     "identities": [
@@ -35,15 +35,15 @@
     "msg_type": 1,
     "privilege_type": 0,
     "roomid": 923833,
-    "score": 1700656969999,
+    "score": 1701226305449,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
     "tail_text": "",
-    "timestamp": 1700635589,
-    "trigger_time": 1700635588886732000,
+    "timestamp": 1700636060,
+    "trigger_time": 1700636059368292000,
     "uid": 0,
-    "uname": "藤***",
+    "uname": "M***",
     "uname_color": ""
   }
 }
