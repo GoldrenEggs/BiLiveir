@@ -6,40 +6,33 @@
       1,
       25,
       16777215,
-      1671458061990,
-      -326138304,
+      1700635590653,
+      -978348263,
       0,
-      "bc3bac01",
+      "94a67952",
       0,
       0,
       0,
       "",
-      1,
-      {
-        "bulge_display": 1,
-        "emoticon_unique": "room_22889484_889",
-        "height": 162,
-        "in_player_area": 1,
-        "is_dynamic": 1,
-        "url": "http://i0.hdslb.com/bfs/live/d9be297a8219631a04bed3e4dcb1d3a11ba7c60e.png",
-        "width": 162
-      },
+      0,
+      "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"屑\",\"user_hash\":\"3158027265\",\"emoticon_unique\":\"room_22889484_889\",\"bulge_display\":1,\"recommend_score\":2,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"五路先来个梯子，然后补撑杆\",\"user_hash\":\"2493938002\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":4,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"17b8756c7ba0ff5a0da5bb35cd655da364\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
         "activity_source": 0,
         "not_show": 0
-      }
+      },
+      0
     ],
-    "屑",
+    "五路先来个梯子，然后补撑杆",
     [
-      354910197,
-      "夜花一依人",
+      0,
+      "雨***",
       0,
       0,
       0,
@@ -47,23 +40,9 @@
       1,
       ""
     ],
+    [],
     [
-      13,
-      "鲸呆",
-      "希月萌奈",
-      22889484,
-      12478086,
-      "",
       0,
-      12478086,
-      12478086,
-      12478086,
-      0,
-      1,
-      591892279
-    ],
-    [
-      1,
       0,
       9868950,
       ">50000",
@@ -77,14 +56,19 @@
     0,
     null,
     {
-      "ts": 1671458061,
-      "ct": "AE169659"
+      "ts": 1700635590,
+      "ct": "17131C44"
     },
     0,
     0,
     null,
     null,
     0,
-    49
-  ]
+    7,
+    [
+      0
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

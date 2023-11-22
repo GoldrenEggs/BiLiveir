@@ -4,37 +4,46 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 4,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 873746,
+      "anchor_roomid": 3526579,
       "guard_level": 0,
       "icon_id": 0,
-      "is_lighted": 0,
-      "medal_color": 6067854,
-      "medal_color_border": 12632256,
-      "medal_color_end": 12632256,
-      "medal_color_start": 12632256,
-      "medal_level": 2,
-      "medal_name": "锵咚锵",
-      "score": 377,
+      "is_lighted": 1,
+      "medal_color": 9272486,
+      "medal_color_border": 9272486,
+      "medal_color_end": 9272486,
+      "medal_color_start": 9272486,
+      "medal_level": 12,
+      "medal_name": "秃A妈",
+      "score": 26917,
       "special": "",
-      "target_id": 2089371
+      "target_id": 5765320
     },
+    "group_medal": null,
     "identities": [
+      3,
       1
     ],
-    "is_spread": 1,
+    "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671458616078,
-    "spread_desc": "流量包推广",
-    "spread_info": "#FF649E",
+    "roomid": 923833,
+    "score": 1700672439938,
+    "spread_desc": "",
+    "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458606,
-    "trigger_time": 1671458606060512300,
-    "uid": 22429236,
-    "uname": "流量机器人",
+    "tail_text": "",
+    "timestamp": 1700635522,
+    "trigger_time": 1700635521914759200,
+    "uid": 0,
+    "uname": "巳***",
     "uname_color": ""
   }
 }

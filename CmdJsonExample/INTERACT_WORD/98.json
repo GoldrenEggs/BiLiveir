@@ -4,37 +4,45 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 16,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 9117740,
+      "anchor_roomid": 634051,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 0,
-      "medal_color": 13081892,
+      "medal_color": 6067854,
       "medal_color_border": 12632256,
       "medal_color_end": 12632256,
       "medal_color_start": 12632256,
-      "medal_level": 19,
-      "medal_name": "鲁雁",
-      "score": 604604,
+      "medal_level": 3,
+      "medal_name": "华山派",
+      "score": 834,
       "special": "",
-      "target_id": 280555203
+      "target_id": 8981370
     },
+    "group_medal": null,
     "identities": [
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671507152921,
+    "roomid": 923833,
+    "score": 1700635603947,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671507152,
-    "trigger_time": 1671507151838948000,
-    "uid": 384653332,
-    "uname": "南城寻北",
+    "tail_text": "",
+    "timestamp": 1700635603,
+    "trigger_time": 1700635602895890400,
+    "uid": 0,
+    "uname": "騷***",
     "uname_color": ""
   }
 }

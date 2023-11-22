@@ -4,38 +4,45 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 16,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 18060,
+      "anchor_roomid": 0,
       "guard_level": 0,
       "icon_id": 0,
-      "is_lighted": 1,
-      "medal_color": 13081892,
-      "medal_color_border": 13081892,
-      "medal_color_end": 13081892,
-      "medal_color_start": 13081892,
-      "medal_level": 18,
-      "medal_name": "太太",
-      "score": 273236,
+      "is_lighted": 0,
+      "medal_color": 0,
+      "medal_color_border": 0,
+      "medal_color_end": 0,
+      "medal_color_start": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "score": 0,
       "special": "",
-      "target_id": 72960
+      "target_id": 0
     },
+    "group_medal": null,
     "identities": [
-      3,
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671790434417,
+    "roomid": 923833,
+    "score": 1700635604057,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671507198,
-    "trigger_time": 1671507197289264600,
-    "uid": 1483877,
-    "uname": "沙包君",
+    "tail_text": "",
+    "timestamp": 1700635604,
+    "trigger_time": 1700635602994594000,
+    "uid": 0,
+    "uname": "P***",
     "uname_color": ""
   }
 }

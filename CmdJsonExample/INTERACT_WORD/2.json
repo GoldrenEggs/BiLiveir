@@ -4,38 +4,45 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 12,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 56237,
+      "anchor_roomid": 21839387,
       "guard_level": 0,
       "icon_id": 0,
-      "is_lighted": 1,
-      "medal_color": 12478086,
-      "medal_color_border": 12478086,
-      "medal_color_end": 12478086,
-      "medal_color_start": 12478086,
-      "medal_level": 13,
-      "medal_name": "你醒醒",
-      "score": 41092,
+      "is_lighted": 0,
+      "medal_color": 9272486,
+      "medal_color_border": 12632256,
+      "medal_color_end": 12632256,
+      "medal_color_start": 12632256,
+      "medal_level": 10,
+      "medal_name": "pinyin",
+      "score": 11100,
       "special": "",
-      "target_id": 2100679
+      "target_id": 494495661
     },
+    "group_medal": null,
     "identities": [
-      3,
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671509547718,
+    "roomid": 923833,
+    "score": 1700635532800,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458455,
-    "trigger_time": 1671458454639498800,
-    "uid": 346321792,
-    "uname": "觀皞",
+    "tail_text": "",
+    "timestamp": 1700635532,
+    "trigger_time": 1700635531708849700,
+    "uid": 0,
+    "uname": "晏***",
     "uname_color": ""
   }
 }

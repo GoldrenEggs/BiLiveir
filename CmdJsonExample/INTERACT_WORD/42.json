@@ -4,6 +4,12 @@
     "contribution": {
       "grade": 0
     },
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
     "dmscore": 2,
     "fans_medal": {
       "anchor_roomid": 0,
@@ -20,21 +26,23 @@
       "special": "",
       "target_id": 0
     },
+    "group_medal": null,
     "identities": [
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671458038115,
+    "roomid": 923833,
+    "score": 1700635587515,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458038,
-    "trigger_time": 1671458037001375000,
-    "uid": 270085061,
-    "uname": "醉魁货首",
+    "tail_text": "",
+    "timestamp": 1700635587,
+    "trigger_time": 1700635586354456600,
+    "uid": 0,
+    "uname": "天***",
     "uname_color": ""
   }
 }

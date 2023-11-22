@@ -24,7 +24,7 @@ async def any_msg(msg: dict):
     if not os.path.exists(dir_path):
         os.mkdir(dir_path)
     file_path = f"{dir_path}/{random.randint(0, 99)}.json"
-    if os.path.exists(file_path):
+    if os.path.exists(file_path) and random.random() < 0.8:
         return
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(msg, f, indent=2, ensure_ascii=False)

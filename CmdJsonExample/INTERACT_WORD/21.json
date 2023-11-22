@@ -4,37 +4,46 @@
     "contribution": {
       "grade": 0
     },
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
     "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 0,
+      "anchor_roomid": 5050,
       "guard_level": 0,
       "icon_id": 0,
-      "is_lighted": 0,
-      "medal_color": 0,
-      "medal_color_border": 0,
-      "medal_color_end": 0,
-      "medal_color_start": 0,
-      "medal_level": 0,
-      "medal_name": "",
-      "score": 0,
+      "is_lighted": 1,
+      "medal_color": 13081892,
+      "medal_color_border": 13081892,
+      "medal_color_end": 13081892,
+      "medal_color_start": 13081892,
+      "medal_level": 18,
+      "medal_name": "大母鹅",
+      "score": 494616,
       "special": "",
-      "target_id": 0
+      "target_id": 433351
     },
+    "group_medal": null,
     "identities": [
+      3,
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671458000508,
+    "roomid": 923833,
+    "score": 1701140180614,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458000,
-    "trigger_time": 1671457999386090200,
-    "uid": 43770655,
-    "uname": "我又来看我女朋友了",
+    "tail_text": "",
+    "timestamp": 1700635564,
+    "trigger_time": 1700635563562142200,
+    "uid": 0,
+    "uname": "四***",
     "uname_color": ""
   }
 }

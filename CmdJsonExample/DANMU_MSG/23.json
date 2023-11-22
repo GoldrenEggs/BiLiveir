@@ -3,61 +3,62 @@
   "info": [
     [
       0,
-      4,
+      1,
       25,
-      14893055,
-      1671458011054,
-      1036391529,
+      5566168,
+      1700635638076,
+      -584476053,
       0,
-      "bdacbb62",
+      "5dfeae40",
       0,
       0,
-      5,
-      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "",
       0,
       "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"《我没有奈，快滚》\",\"user_hash\":\"3182213986\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":3,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":5566168,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"铁通加撑杆\",\"user_hash\":\"1576971840\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":6,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"19bea6787494777c3fbaeb7110655da323\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
         "activity_source": 0,
         "not_show": 0
-      }
+      },
+      0
     ],
-    "《我没有奈，快滚》",
+    "铁通加撑杆",
     [
-      27896192,
-      "希月枫叶",
+      0,
+      "西***",
       0,
       0,
       0,
       10000,
       1,
-      "#00D1F1"
+      ""
     ],
     [
-      26,
-      "鲸呆",
-      "希月萌奈",
-      22889484,
-      398668,
+      12,
+      "呼吸鸭",
+      "幽灵鸡督教",
+      11612157,
+      9272486,
       "",
       0,
-      6809855,
-      398668,
-      6850801,
-      3,
+      9272486,
+      9272486,
+      9272486,
+      0,
       1,
-      591892279
+      3592883
     ],
     [
-      20,
+      1,
       0,
-      6406234,
+      9868950,
       ">50000",
       0
     ],
@@ -66,17 +67,22 @@
       ""
     ],
     0,
-    3,
+    0,
     null,
     {
-      "ts": 1671458011,
-      "ct": "2479A67E"
+      "ts": 1700635638,
+      "ct": "F4630A2B"
     },
     0,
     0,
     null,
     null,
     0,
-    105
-  ]
+    42,
+    [
+      7
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

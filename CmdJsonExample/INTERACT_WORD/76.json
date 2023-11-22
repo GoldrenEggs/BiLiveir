@@ -4,7 +4,13 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 20,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
       "anchor_roomid": 0,
       "guard_level": 0,
@@ -20,21 +26,23 @@
       "special": "",
       "target_id": 0
     },
+    "group_medal": null,
     "identities": [
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671458039688,
+    "roomid": 923833,
+    "score": 1700635543091,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458039,
-    "trigger_time": 1671458038567965000,
-    "uid": 5602111,
-    "uname": "波流之鱼",
+    "tail_text": "",
+    "timestamp": 1700635543,
+    "trigger_time": 1700635542055331600,
+    "uid": 0,
+    "uname": "s***",
     "uname_color": ""
   }
 }

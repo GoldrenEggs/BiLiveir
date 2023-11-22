@@ -6,40 +6,33 @@
       1,
       25,
       16777215,
-      1671458068862,
-      -947388919,
+      1700635639950,
+      1338260741,
       0,
-      "bc3bac01",
+      "a1e2f32e",
       0,
       0,
       0,
       "",
-      1,
-      {
-        "bulge_display": 1,
-        "emoticon_unique": "room_22889484_892",
-        "height": 162,
-        "in_player_area": 1,
-        "is_dynamic": 1,
-        "url": "http://i0.hdslb.com/bfs/live/fb682a684dc96787634baea5a3745e4b0009c354.png",
-        "width": 162
-      },
+      0,
+      "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"好听\",\"user_hash\":\"3158027265\",\"emoticon_unique\":\"room_22889484_892\",\"bulge_display\":1,\"recommend_score\":7,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"大爷撑杆\",\"user_hash\":\"2716005166\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":9,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"0f4f94230d0678bf4e3e49726b655da342\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
         "activity_source": 0,
         "not_show": 0
-      }
+      },
+      0
     ],
-    "好听",
+    "大爷撑杆",
     [
-      354910197,
-      "夜花一依人",
+      0,
+      "-***",
       0,
       0,
       0,
@@ -48,10 +41,10 @@
       ""
     ],
     [
-      13,
-      "鲸呆",
-      "希月萌奈",
-      22889484,
+      16,
+      "麻雀团",
+      "巛麻雀灬涛",
+      9290795,
       12478086,
       "",
       0,
@@ -60,10 +53,10 @@
       12478086,
       0,
       1,
-      591892279
+      108423490
     ],
     [
-      1,
+      5,
       0,
       9868950,
       ">50000",
@@ -77,14 +70,19 @@
     0,
     null,
     {
-      "ts": 1671458068,
-      "ct": "2ADB41BB"
+      "ts": 1700635639,
+      "ct": "AE016302"
     },
     0,
     0,
     null,
     null,
     0,
-    49
-  ]
+    56,
+    [
+      0
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

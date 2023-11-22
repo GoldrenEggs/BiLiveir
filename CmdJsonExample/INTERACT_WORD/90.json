@@ -4,38 +4,45 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 14,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 22889484,
+      "anchor_roomid": 0,
       "guard_level": 0,
       "icon_id": 0,
-      "is_lighted": 1,
-      "medal_color": 9272486,
-      "medal_color_border": 9272486,
-      "medal_color_end": 9272486,
-      "medal_color_start": 9272486,
-      "medal_level": 12,
-      "medal_name": "鲸呆",
-      "score": 25200,
+      "is_lighted": 0,
+      "medal_color": 0,
+      "medal_color_border": 0,
+      "medal_color_end": 0,
+      "medal_color_start": 0,
+      "medal_level": 0,
+      "medal_name": "",
+      "score": 0,
       "special": "",
-      "target_id": 591892279
+      "target_id": 0
     },
+    "group_medal": null,
     "identities": [
-      3,
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671493269072,
+    "roomid": 923833,
+    "score": 1700635603267,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458069,
-    "trigger_time": 1671458068011431200,
-    "uid": 21954816,
-    "uname": "听风恋月",
+    "tail_text": "",
+    "timestamp": 1700635603,
+    "trigger_time": 1700635602130006300,
+    "uid": 0,
+    "uname": "鲨***",
     "uname_color": ""
   }
 }

@@ -5,57 +5,44 @@
       0,
       1,
       25,
-      14893055,
-      1671458060636,
-      315981883,
+      16777215,
+      1700635604417,
+      -655740079,
       0,
-      "4818cc80",
+      "94a67952",
       0,
       0,
-      5,
-      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "",
       0,
       "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"屑\",\"user_hash\":\"1209584768\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":9,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"梯子，撑杆\",\"user_hash\":\"2493938002\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":0,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"4ba185363670878d5e18c1d5b7655da362\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
         "activity_source": 0,
         "not_show": 0
-      }
+      },
+      0
     ],
-    "屑",
+    "梯子，撑杆",
     [
-      479185434,
-      "逆佛螺旋",
+      0,
+      "雨***",
       0,
       0,
       0,
       10000,
       1,
-      "#00D1F1"
+      ""
     ],
+    [],
     [
-      21,
-      "鲸呆",
-      "希月萌奈",
-      22889484,
-      1725515,
-      "",
       0,
-      6809855,
-      1725515,
-      5414290,
-      3,
-      1,
-      591892279
-    ],
-    [
-      4,
       0,
       9868950,
       ">50000",
@@ -66,17 +53,22 @@
       ""
     ],
     0,
-    3,
+    0,
     null,
     {
-      "ts": 1671458060,
-      "ct": "23DE423F"
+      "ts": 1700635604,
+      "ct": "987C729A"
     },
     0,
     0,
     null,
     null,
     0,
-    105
-  ]
+    7,
+    [
+      0
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

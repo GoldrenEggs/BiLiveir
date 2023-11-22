@@ -4,37 +4,45 @@
     "contribution": {
       "grade": 0
     },
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
     "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 0,
+      "anchor_roomid": 5984476,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 0,
-      "medal_color": 0,
-      "medal_color_border": 0,
-      "medal_color_end": 0,
-      "medal_color_start": 0,
-      "medal_level": 0,
-      "medal_name": "",
-      "score": 0,
+      "medal_color": 12478086,
+      "medal_color_border": 12632256,
+      "medal_color_end": 12632256,
+      "medal_color_start": 12632256,
+      "medal_level": 13,
+      "medal_name": "西凉骑",
+      "score": 41950,
       "special": "",
-      "target_id": 0
+      "target_id": 223837282
     },
+    "group_medal": null,
     "identities": [
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671457958323,
+    "roomid": 923833,
+    "score": 1700635530958,
     "spread_desc": "",
     "spread_info": "",
-    "tail_icon": 101,
-    "timestamp": 1671457958,
-    "trigger_time": 1671457957133074000,
-    "uid": 514990806,
-    "uname": "02のdarlingわ",
+    "tail_icon": 0,
+    "tail_text": "",
+    "timestamp": 1700635530,
+    "trigger_time": 1700635529943055400,
+    "uid": 0,
+    "uname": "肆***",
     "uname_color": ""
   }
 }

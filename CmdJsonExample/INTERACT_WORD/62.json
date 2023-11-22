@@ -4,37 +4,46 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 16,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 7688602,
+      "anchor_roomid": 22100922,
       "guard_level": 0,
       "icon_id": 0,
-      "is_lighted": 0,
-      "medal_color": 12632256,
-      "medal_color_border": 12632256,
-      "medal_color_end": 12632256,
-      "medal_color_start": 12632256,
-      "medal_level": 23,
-      "medal_name": "花儿呀",
-      "score": 50006120,
+      "is_lighted": 1,
+      "medal_color": 6126494,
+      "medal_color_border": 6126494,
+      "medal_color_end": 6126494,
+      "medal_color_start": 6126494,
+      "medal_level": 7,
+      "medal_name": "五雷王",
+      "score": 4700,
       "special": "",
-      "target_id": 269415357
+      "target_id": 452164428
     },
+    "group_medal": null,
     "identities": [
+      3,
       1
     ],
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671507402464,
+    "roomid": 923833,
+    "score": 1700650247143,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671507402,
-    "trigger_time": 1671507401348964000,
-    "uid": 21838614,
-    "uname": "哲与白共江南",
+    "tail_text": "",
+    "timestamp": 1700635547,
+    "trigger_time": 1700635546081733000,
+    "uid": 0,
+    "uname": "芭***",
     "uname_color": ""
   }
 }

@@ -3,59 +3,46 @@
   "info": [
     [
       0,
-      4,
+      1,
       25,
-      14893055,
-      1671457985826,
-      1671455954,
+      16777215,
+      1700635638299,
+      -842572890,
       0,
-      "851ff376",
+      "fa5803b0",
       0,
       0,
-      5,
-      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "",
       0,
       "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"隆胸女仆\",\"user_hash\":\"2233463670\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":3,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"扶梯加机枪\",\"user_hash\":\"4200072112\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":7,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"2e9e88234ef3dff84e656eb38c655da320\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
         "activity_source": 0,
         "not_show": 0
-      }
+      },
+      0
     ],
-    "隆胸女仆",
+    "扶梯加机枪",
     [
-      102674617,
-      "眼镜傻宅",
+      0,
+      "活***",
       0,
       0,
       0,
       10000,
       1,
-      "#00D1F1"
+      ""
     ],
+    [],
     [
-      23,
-      "鲸呆",
-      "希月萌奈",
-      22889484,
-      1725515,
-      "",
       0,
-      6809855,
-      1725515,
-      5414290,
-      3,
-      1,
-      591892279
-    ],
-    [
-      8,
       0,
       9868950,
       ">50000",
@@ -66,17 +53,22 @@
       ""
     ],
     0,
-    3,
+    0,
     null,
     {
-      "ts": 1671457985,
-      "ct": "2E799AC8"
+      "ts": 1700635638,
+      "ct": "746B990F"
     },
     0,
     0,
     null,
     null,
     0,
-    105
-  ]
+    7,
+    [
+      0
+    ],
+    null
+  ],
+  "dm_v2": ""
 }

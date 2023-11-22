@@ -4,22 +4,29 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 12,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 24778741,
+      "anchor_roomid": 11058609,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 1,
-      "medal_color": 9272486,
-      "medal_color_border": 9272486,
-      "medal_color_end": 9272486,
-      "medal_color_start": 9272486,
-      "medal_level": 12,
-      "medal_name": "缺德儿",
-      "score": 28600,
+      "medal_color": 13081892,
+      "medal_color_border": 13081892,
+      "medal_color_end": 13081892,
+      "medal_color_start": 13081892,
+      "medal_level": 18,
+      "medal_name": "时小间",
+      "score": 481063,
       "special": "",
-      "target_id": 2006452883
+      "target_id": 254662438
     },
+    "group_medal": null,
     "identities": [
       3,
       1
@@ -27,15 +34,16 @@
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671497635879,
+    "roomid": 923833,
+    "score": 1701126699687,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671459035,
-    "trigger_time": 1671459034818518000,
-    "uid": 1266510530,
-    "uname": "单推derのy",
+    "tail_text": "",
+    "timestamp": 1700635636,
+    "trigger_time": 1700635635676899600,
+    "uid": 0,
+    "uname": "蛛***",
     "uname_color": ""
   }
 }

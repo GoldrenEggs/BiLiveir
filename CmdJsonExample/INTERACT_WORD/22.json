@@ -4,22 +4,29 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 12,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 23678093,
+      "anchor_roomid": 3044248,
       "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 1,
-      "medal_color": 12478086,
-      "medal_color_border": 12478086,
-      "medal_color_end": 12478086,
-      "medal_color_start": 12478086,
-      "medal_level": 13,
-      "medal_name": "VN兄弟",
-      "score": 35150,
+      "medal_color": 13081892,
+      "medal_color_border": 13081892,
+      "medal_color_end": 13081892,
+      "medal_color_start": 13081892,
+      "medal_level": 17,
+      "medal_name": "Zc憨憨",
+      "score": 192100,
       "special": "",
-      "target_id": 1431088904
+      "target_id": 13164144
     },
+    "group_medal": null,
     "identities": [
       3,
       1
@@ -27,15 +34,16 @@
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1671503743749,
+    "roomid": 923833,
+    "score": 1700837738824,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458593,
-    "trigger_time": 1671458592634586000,
-    "uid": 524747362,
-    "uname": "是夜雨捏_",
+    "tail_text": "",
+    "timestamp": 1700635638,
+    "trigger_time": 1700635637838296600,
+    "uid": 0,
+    "uname": "栗***",
     "uname_color": ""
   }
 }

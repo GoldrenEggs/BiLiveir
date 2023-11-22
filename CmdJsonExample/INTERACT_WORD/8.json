@@ -4,22 +4,29 @@
     "contribution": {
       "grade": 0
     },
-    "dmscore": 20,
+    "contribution_v2": {
+      "grade": 0,
+      "rank_type": "",
+      "text": ""
+    },
+    "core_user_type": 0,
+    "dmscore": 2,
     "fans_medal": {
-      "anchor_roomid": 25100511,
-      "guard_level": 3,
+      "anchor_roomid": 5050,
+      "guard_level": 0,
       "icon_id": 0,
       "is_lighted": 1,
-      "medal_color": 398668,
-      "medal_color_border": 6809855,
-      "medal_color_end": 6850801,
-      "medal_color_start": 398668,
-      "medal_level": 25,
-      "medal_name": "被略了",
-      "score": 50020697,
+      "medal_color": 13081892,
+      "medal_color_border": 13081892,
+      "medal_color_end": 13081892,
+      "medal_color_start": 13081892,
+      "medal_level": 17,
+      "medal_name": "大母鹅",
+      "score": 175973,
       "special": "",
-      "target_id": 1939568047
+      "target_id": 433351
     },
+    "group_medal": null,
     "identities": [
       3,
       1
@@ -27,15 +34,16 @@
     "is_spread": 0,
     "msg_type": 1,
     "privilege_type": 0,
-    "roomid": 22889484,
-    "score": 1721488766345,
+    "roomid": 923833,
+    "score": 1700821520807,
     "spread_desc": "",
     "spread_info": "",
     "tail_icon": 0,
-    "timestamp": 1671458069,
-    "trigger_time": 1671458068258869500,
-    "uid": 32441902,
-    "uname": "野驴打滚ing",
+    "tail_text": "",
+    "timestamp": 1700635547,
+    "trigger_time": 1700635546577837000,
+    "uid": 0,
+    "uname": "闪***",
     "uname_color": ""
   }
 }

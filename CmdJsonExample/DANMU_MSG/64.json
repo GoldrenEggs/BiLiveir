@@ -3,47 +3,62 @@
   "info": [
     [
       0,
-      4,
+      1,
       25,
-      14893055,
-      1671458038067,
-      778503450,
+      16777215,
+      1700635605712,
+      -82925977,
       0,
-      "9ad8a9b3",
+      "c8190f7e",
       0,
       0,
-      5,
-      "#1453BAFF,#4C2263A2,#3353BAFF",
+      0,
+      "",
       0,
       "{}",
       "{}",
       {
         "mode": 0,
         "show_player_type": 0,
-        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":14893055,\"dm_type\":0,\"font_size\":25,\"player_mode\":4,\"show_player_type\":0,\"content\":\"祝鲸宝生日快乐！\",\"user_hash\":\"2597890483\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":8,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null}"
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"橄榄球\",\"user_hash\":\"3357085566\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":6,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"4c4c1e1e2f2d5a9739ea12f890655da367\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"hit_combo\":0}"
       },
       {
         "activity_identity": "",
         "activity_source": 0,
         "not_show": 0
-      }
+      },
+      0
     ],
-    "祝鲸宝生日快乐！",
+    "橄榄球",
     [
-      66786416,
-      "丌官义虹",
+      0,
+      "鸟***",
       0,
       0,
       0,
       10000,
       1,
-      "#00D1F1"
+      ""
     ],
-    [],
     [
-      17,
+      21,
+      "小桜饼",
+      "嘤嘤井",
+      15156372,
+      1725515,
+      "",
       0,
-      6406234,
+      6809855,
+      1725515,
+      5414290,
+      3,
+      1,
+      600454
+    ],
+    [
+      1,
+      0,
+      9868950,
       ">50000",
       0
     ],
@@ -52,17 +67,22 @@
       ""
     ],
     0,
-    3,
+    0,
     null,
     {
-      "ts": 1671458038,
-      "ct": "6BBAE321"
+      "ts": 1700635605,
+      "ct": "4E6C91C7"
     },
     0,
     0,
     null,
     null,
     0,
-    105
-  ]
+    70,
+    [
+      8
+    ],
+    null
+  ],
+  "dm_v2": ""
 }
