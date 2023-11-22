@@ -41,7 +41,6 @@ class LiveConnect:
         while self.websocket is not None:
             self._sequence += 1
             await self.websocket.send(packet)
-            print('send heartbeat', self._sequence)
             await asyncio.sleep(30)
 
     async def connect(self):
@@ -65,7 +64,7 @@ class LiveConnect:
 
 if __name__ == '__main__':
     async def main():
-        async with LiveConnect(21511554) as lll:
+        async with LiveConnect(31363850) as lll:
             async for msg in lll.recv():
                 print(msg)
 
