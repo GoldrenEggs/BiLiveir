@@ -16,7 +16,6 @@ HandlerFunc: TypeAlias = Callable[..., Coroutine]
 T_RAW_HANDLER_FUNC = TypeVar('T_RAW_HANDLER_FUNC', bound=HandlerFunc)
 
 T_MESSAGE = TypeVar('T_MESSAGE', bound=Message)
-AutoHandlerFunc: TypeAlias = Callable[[T_MESSAGE], Coroutine]
 
 
 @dataclass
@@ -64,11 +63,17 @@ class Biliveir:
         """运行Biliveir"""
         async with LiveConnect(self.room_id) as connect:
             async for packet in connect.recv():
-                messages = decode_packet(packet)
+                try:
+                    messages = decode_packet(packet)
+                except Exception as err:
+                    logger.error(f'报文解析失败：{err}')
+                    continue
                 for message in messages:  # 为了减少耦合，这一坨嵌套还是不优化为好
                     if 'cmd' not in message:
+                        self.logger.warning(f'消息未找到键："cmd"，原文：{message}')
                         continue
                     cmd: str = message['cmd']
+                    self.logger.debug(f'收到消息：{cmd}')
                     if cmd in self.handlers_map:
                         handlers = self.handlers_map[cmd]
                     else:
